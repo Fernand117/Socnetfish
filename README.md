@@ -6,7 +6,7 @@
 </p>
 
 ## REQUISITOS
-Para poder ejecutar y probar este script es necesario contar con una instalación de Python mayor a 3.X, es recomendable que se realice en un entorno seguro y controlado para este tipo de pruebas donde no se ponga en riesgo ningún archivo o documento de suma importancia.
+Para poder ejecutar y probar este script es necesario contar con una instalación de Python mayor a 3.X, es recomendable que se realice en un entorno seguro y controlado para este tipo de pruebas, el autor de este material no se hace responsable por el mal uso que se le pueda dar a esta herramienta.
 
 Lo que necesitas instalar:
 - [Python 3.X](https://www.python.org/) :snake:
