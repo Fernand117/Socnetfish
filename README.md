@@ -68,5 +68,4 @@ Deberá ejectuar en el mismo lugar en otra terminal el siguiente comando para qu
 
 Creado por Luis Fernando Leyva Luna
 
-Sígueme en Instagram: [@fernand_117](https://www.instagram.com/fernand_117/?hl=es-la)
-
+Sígueme en Instagram: <img src="https://www.instagram.com/static/images/ico/apple-touch-icon-76x76-precomposed.png/666282be8229.png" style="width:25px"> [@fernand_117](https://www.instagram.com/fernand_117/?hl=es-la)
