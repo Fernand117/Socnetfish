@@ -1,0 +1,92 @@
+[Thu Oct 21 00:56:21 2021] PHP 7.4.3 Development Server (http://localhost:8080) started
+[Thu Oct 21 00:56:26 2021] 127.0.0.1:55750 Accepted
+[Thu Oct 21 00:56:26 2021] 127.0.0.1:55750 [200]: (null) /login.html
+[Thu Oct 21 00:56:26 2021] 127.0.0.1:55750 Closing
+[Thu Oct 21 00:56:27 2021] 127.0.0.1:55752 Accepted
+[Thu Oct 21 00:56:27 2021] 127.0.0.1:55752 [200]: (null) /Netflix_files/none.js
+[Thu Oct 21 00:56:27 2021] 127.0.0.1:55752 Closing
+[Thu Oct 21 00:56:27 2021] 127.0.0.1:55754 Accepted
+[Thu Oct 21 00:56:27 2021] 127.0.0.1:55756 Accepted
+[Thu Oct 21 00:56:27 2021] 127.0.0.1:55756 [200]: (null) /Netflix_files/none_002.js
+[Thu Oct 21 00:56:27 2021] 127.0.0.1:55756 Closing
+[Thu Oct 21 00:56:27 2021] 127.0.0.1:55758 Accepted
+[Thu Oct 21 00:56:27 2021] 127.0.0.1:55754 [200]: (null) /Netflix_files/sdk.js
+[Thu Oct 21 00:56:27 2021] 127.0.0.1:55760 Accepted
+[Thu Oct 21 00:56:27 2021] 127.0.0.1:55758 [404]: (null) /Netflix_files/WebsiteDetect.asc - No such file or directory
+[Thu Oct 21 00:56:27 2021] 127.0.0.1:55758 Closing
+[Thu Oct 21 00:56:27 2021] 127.0.0.1:55760 [200]: (null) /Netflix_files/none.css
+[Thu Oct 21 00:56:27 2021] 127.0.0.1:55754 Closing
+[Thu Oct 21 00:56:27 2021] 127.0.0.1:55760 Closing
+[Thu Oct 21 00:56:32 2021] 127.0.0.1:55762 Accepted
+[Thu Oct 21 00:56:32 2021] 127.0.0.1:55762 [200]: (null) /Netflix_files/FB-f-Logo__blue_57.png
+[Thu Oct 21 00:56:32 2021] 127.0.0.1:55764 Accepted
+[Thu Oct 21 00:56:32 2021] 127.0.0.1:55762 Closing
+[Thu Oct 21 00:56:32 2021] 127.0.0.1:55766 Accepted
+[Thu Oct 21 00:56:32 2021] 127.0.0.1:55764 [302]: GET /ichnaea/cl2/freeform/WebsiteScreen?source=wwwhead&fetchType=js&winw=693&winh=778&screenw=663&screenh=667&ratio=1
+[Thu Oct 21 00:56:32 2021] 127.0.0.1:55764 Closing
+[Thu Oct 21 00:56:32 2021] 127.0.0.1:55766 [302]: GET /ichnaea/cl2/freeform/WebsiteDetect?source=wwwhead&fetchType=js&modalView=login
+[Thu Oct 21 00:56:32 2021] 127.0.0.1:55766 Closing
+[Thu Oct 21 00:56:32 2021] 127.0.0.1:55770 Accepted
+[Thu Oct 21 00:56:32 2021] 127.0.0.1:55770 [404]: GET /ichnaea/cl2/freeform/login.html - No such file or directory
+[Thu Oct 21 00:56:32 2021] 127.0.0.1:55770 Closing
+[Thu Oct 21 00:56:33 2021] 127.0.0.1:55772 Accepted
+[Thu Oct 21 00:56:33 2021] 127.0.0.1:55772 [404]: GET /ichnaea/cl2/freeform/login.html - No such file or directory
+[Thu Oct 21 00:56:33 2021] 127.0.0.1:55772 Closing
+[Thu Oct 21 00:56:33 2021] 127.0.0.1:55778 Accepted
+[Thu Oct 21 00:56:33 2021] 127.0.0.1:55778 [200]: GET /Netflix_files/xaOI6zd9HW9.html
+[Thu Oct 21 00:56:33 2021] 127.0.0.1:55778 Closing
+[Thu Oct 21 00:56:33 2021] 127.0.0.1:55780 Accepted
+[Thu Oct 21 00:56:33 2021] 127.0.0.1:55780 [302]: POST /ichnaea/log
+[Thu Oct 21 00:56:33 2021] 127.0.0.1:55780 Closing
+[Thu Oct 21 00:56:33 2021] 127.0.0.1:55782 Accepted
+[Thu Oct 21 00:56:33 2021] 127.0.0.1:55782 [404]: POST /ichnaea/login.html - No such file or directory
+[Thu Oct 21 00:56:33 2021] 127.0.0.1:55782 Closing
+[Thu Oct 21 00:56:52 2021] 127.0.0.1:55790 Accepted
+[Thu Oct 21 00:56:52 2021] 127.0.0.1:55790 [302]: POST /login.php
+[Thu Oct 21 00:56:52 2021] 127.0.0.1:55790 Closing
+[Thu Oct 21 00:59:05 2021] 127.0.0.1:55836 Accepted
+[Thu Oct 21 00:59:05 2021] 127.0.0.1:55836 [404]: POST /Netflix_files/WebsiteDetect.asc - No such file or directory
+[Thu Oct 21 00:59:05 2021] 127.0.0.1:55836 Closing
+[Thu Oct 21 00:59:15 2021] 127.0.0.1:55842 Accepted
+[Thu Oct 21 00:59:15 2021] 127.0.0.1:55842 [302]: POST /login.php
+[Thu Oct 21 00:59:15 2021] 127.0.0.1:55842 Closing
+[Thu Oct 21 01:16:17 2021] PHP 7.4.3 Development Server (http://localhost:8080) started
+[Thu Oct 21 01:16:19 2021] 127.0.0.1:56252 Accepted
+[Thu Oct 21 01:16:19 2021] 127.0.0.1:56252 [200]: (null) /login.html
+[Thu Oct 21 01:16:19 2021] 127.0.0.1:56252 Closing
+[Thu Oct 21 01:16:19 2021] 127.0.0.1:56254 Accepted
+[Thu Oct 21 01:16:19 2021] 127.0.0.1:56256 Accepted
+[Thu Oct 21 01:16:19 2021] 127.0.0.1:56254 [404]: (null) /Netflix_files/WebsiteDetect.asc - No such file or directory
+[Thu Oct 21 01:16:19 2021] 127.0.0.1:56254 Closing
+[Thu Oct 21 01:16:19 2021] 127.0.0.1:56256 [200]: (null) /Netflix_files/none.js
+[Thu Oct 21 01:16:19 2021] 127.0.0.1:56256 Closing
+[Thu Oct 21 01:16:19 2021] 127.0.0.1:56258 Accepted
+[Thu Oct 21 01:16:19 2021] 127.0.0.1:56258 [200]: (null) /Netflix_files/none.css
+[Thu Oct 21 01:16:19 2021] 127.0.0.1:56258 Closing
+[Thu Oct 21 01:16:20 2021] 127.0.0.1:56260 Accepted
+[Thu Oct 21 01:16:20 2021] 127.0.0.1:56262 Accepted
+[Thu Oct 21 01:16:20 2021] 127.0.0.1:56260 [200]: (null) /Netflix_files/sdk.js
+[Thu Oct 21 01:16:20 2021] 127.0.0.1:56262 [200]: (null) /Netflix_files/none_002.js
+[Thu Oct 21 01:16:20 2021] 127.0.0.1:56260 Closing
+[Thu Oct 21 01:16:20 2021] 127.0.0.1:56262 Closing
+[Thu Oct 21 01:16:22 2021] 127.0.0.1:56264 Accepted
+[Thu Oct 21 01:16:22 2021] 127.0.0.1:56264 [200]: (null) /Netflix_files/FB-f-Logo__blue_57.png
+[Thu Oct 21 01:16:22 2021] 127.0.0.1:56264 Closing
+[Thu Oct 21 01:16:22 2021] 127.0.0.1:56266 Accepted
+[Thu Oct 21 01:16:22 2021] 127.0.0.1:56266 [302]: GET /ichnaea/cl2/freeform/WebsiteDetect?source=wwwhead&fetchType=js&modalView=login
+[Thu Oct 21 01:16:22 2021] 127.0.0.1:56266 Closing
+[Thu Oct 21 01:16:22 2021] 127.0.0.1:56268 Accepted
+[Thu Oct 21 01:16:22 2021] 127.0.0.1:56268 [302]: GET /ichnaea/cl2/freeform/WebsiteScreen?source=wwwhead&fetchType=js&winw=693&winh=778&screenw=663&screenh=667&ratio=1
+[Thu Oct 21 01:16:22 2021] 127.0.0.1:56268 Closing
+[Thu Oct 21 01:16:23 2021] 127.0.0.1:56270 Accepted
+[Thu Oct 21 01:16:23 2021] 127.0.0.1:56270 [200]: GET /Netflix_files/xaOI6zd9HW9.html
+[Thu Oct 21 01:16:23 2021] 127.0.0.1:56270 Closing
+[Thu Oct 21 01:16:23 2021] 127.0.0.1:56272 Accepted
+[Thu Oct 21 01:16:23 2021] 127.0.0.1:56272 [404]: GET /ichnaea/cl2/freeform/login.html - No such file or directory
+[Thu Oct 21 01:16:23 2021] 127.0.0.1:56272 Closing
+[Thu Oct 21 01:16:24 2021] 127.0.0.1:56274 Accepted
+[Thu Oct 21 01:16:24 2021] 127.0.0.1:56274 [404]: GET /ichnaea/cl2/freeform/login.html - No such file or directory
+[Thu Oct 21 01:16:24 2021] 127.0.0.1:56274 Closing
+[Thu Oct 21 01:16:40 2021] 127.0.0.1:56282 Accepted
+[Thu Oct 21 01:16:40 2021] 127.0.0.1:56282 [302]: POST /login.php
+[Thu Oct 21 01:16:40 2021] 127.0.0.1:56282 Closing

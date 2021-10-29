@@ -1,0 +1,16 @@
+[Fri Oct  8 17:01:59 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: /usr/lib/php/20190902/pdo_mysql (/usr/lib/php/20190902/pdo_mysql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_mysql.so (/usr/lib/php/20190902/pdo_mysql.so: undefined symbol: mysqlnd_allocator)) in Unknown on line 0
+[Fri Oct  8 17:01:59 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: /usr/lib/php/20190902/pdo_odbc (/usr/lib/php/20190902/pdo_odbc: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_odbc.so (/usr/lib/php/20190902/pdo_odbc.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 17:01:59 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: /usr/lib/php/20190902/pdo_pgsql (/usr/lib/php/20190902/pdo_pgsql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_pgsql.so (/usr/lib/php/20190902/pdo_pgsql.so: undefined symbol: pdo_parse_params)) in Unknown on line 0
+[Fri Oct  8 17:01:59 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: /usr/lib/php/20190902/pdo_sqlite (/usr/lib/php/20190902/pdo_sqlite: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_sqlite.so (/usr/lib/php/20190902/pdo_sqlite.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 17:01:59 2021] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[Fri Oct  8 17:01:59 2021] PHP 7.4.3 Development Server (http://localhost:8080) started
+[Thu Oct 21 01:01:23 2021] PHP 7.4.3 Development Server (http://localhost:8080) started
+[Thu Oct 21 01:01:26 2021] 127.0.0.1:55856 Accepted
+[Thu Oct 21 01:01:26 2021] 127.0.0.1:55856 [200]: (null) /login.html
+[Thu Oct 21 01:01:26 2021] 127.0.0.1:55856 Closing
+[Thu Oct 21 01:01:30 2021] 127.0.0.1:55874 Accepted
+[Thu Oct 21 01:01:30 2021] 127.0.0.1:55874 [404]: (null) /manifest.json - No such file or directory
+[Thu Oct 21 01:01:30 2021] 127.0.0.1:55874 Closing
+[Thu Oct 21 01:02:16 2021] 127.0.0.1:55884 Accepted
+[Thu Oct 21 01:02:16 2021] 127.0.0.1:55884 [302]: POST /login.php
+[Thu Oct 21 01:02:16 2021] 127.0.0.1:55884 Closing

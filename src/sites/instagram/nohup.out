@@ -1,0 +1,1101 @@
+[Fri Oct  8 14:37:42 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: /usr/lib/php/20190902/pdo_mysql (/usr/lib/php/20190902/pdo_mysql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_mysql.so (/usr/lib/php/20190902/pdo_mysql.so: undefined symbol: mysqlnd_allocator)) in Unknown on line 0
+[Fri Oct  8 14:37:42 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: /usr/lib/php/20190902/pdo_odbc (/usr/lib/php/20190902/pdo_odbc: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_odbc.so (/usr/lib/php/20190902/pdo_odbc.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 14:37:42 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: /usr/lib/php/20190902/pdo_pgsql (/usr/lib/php/20190902/pdo_pgsql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_pgsql.so (/usr/lib/php/20190902/pdo_pgsql.so: undefined symbol: pdo_parse_params)) in Unknown on line 0
+[Fri Oct  8 14:37:42 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: /usr/lib/php/20190902/pdo_sqlite (/usr/lib/php/20190902/pdo_sqlite: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_sqlite.so (/usr/lib/php/20190902/pdo_sqlite.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 14:37:42 2021] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[Fri Oct  8 14:37:42 2021] Failed to listen on localhost:8080 (reason: Address already in use)
+[Fri Oct  8 14:39:33 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: /usr/lib/php/20190902/pdo_mysql (/usr/lib/php/20190902/pdo_mysql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_mysql.so (/usr/lib/php/20190902/pdo_mysql.so: undefined symbol: mysqlnd_allocator)) in Unknown on line 0
+[Fri Oct  8 14:39:33 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: /usr/lib/php/20190902/pdo_odbc (/usr/lib/php/20190902/pdo_odbc: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_odbc.so (/usr/lib/php/20190902/pdo_odbc.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 14:39:33 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: /usr/lib/php/20190902/pdo_pgsql (/usr/lib/php/20190902/pdo_pgsql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_pgsql.so (/usr/lib/php/20190902/pdo_pgsql.so: undefined symbol: pdo_parse_params)) in Unknown on line 0
+[Fri Oct  8 14:39:33 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: /usr/lib/php/20190902/pdo_sqlite (/usr/lib/php/20190902/pdo_sqlite: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_sqlite.so (/usr/lib/php/20190902/pdo_sqlite.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 14:39:33 2021] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[Fri Oct  8 14:39:33 2021] Failed to listen on localhost:8080 (reason: Address already in use)
+[Fri Oct  8 15:10:50 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: /usr/lib/php/20190902/pdo_mysql (/usr/lib/php/20190902/pdo_mysql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_mysql.so (/usr/lib/php/20190902/pdo_mysql.so: undefined symbol: mysqlnd_allocator)) in Unknown on line 0
+[Fri Oct  8 15:10:50 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: /usr/lib/php/20190902/pdo_odbc (/usr/lib/php/20190902/pdo_odbc: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_odbc.so (/usr/lib/php/20190902/pdo_odbc.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:10:50 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: /usr/lib/php/20190902/pdo_pgsql (/usr/lib/php/20190902/pdo_pgsql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_pgsql.so (/usr/lib/php/20190902/pdo_pgsql.so: undefined symbol: pdo_parse_params)) in Unknown on line 0
+[Fri Oct  8 15:10:50 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: /usr/lib/php/20190902/pdo_sqlite (/usr/lib/php/20190902/pdo_sqlite: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_sqlite.so (/usr/lib/php/20190902/pdo_sqlite.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:10:50 2021] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[Fri Oct  8 15:10:50 2021] PHP 7.4.3 Development Server (http://localhost:8080) started
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55712 Accepted
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55716 Accepted
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55712 [302]: GET /
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55712 Closing
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55716 [200]: GET /login.html
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55716 Closing
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55722 Accepted
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55722 [404]: GET /index_files/fbevents.js - No such file or directory
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55722 Closing
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55726 Accepted
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55730 Accepted
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55734 Accepted
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55726 [404]: GET /eventcheck.js - No such file or directory
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55726 Closing
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55730 [200]: GET /index_files/b67d172d5783.js.download
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55730 Closing
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55734 [404]: GET /index_files/sdk.asc - No such file or directory
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55734 Closing
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55740 Accepted
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55740 [404]: GET /index_files/d1f0f06b39df.asc - No such file or directory
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55740 Closing
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55744 Accepted
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55744 [404]: GET /index_files/96f2557117a2.asc - No such file or directory
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55744 Closing
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55748 Accepted
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55752 Accepted
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55756 Accepted
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55760 Accepted
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55764 Accepted
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55768 Accepted
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55748 [404]: GET /index_files/f9e5c0ca0804.asc - No such file or directory
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55748 Closing
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55752 [404]: GET /index_files/8e2c2a606042.download - No such file or directory
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55752 Closing
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55756 [404]: GET /index_files/b67d172d5783.asc - No such file or directory
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55756 Closing
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55760 [200]: GET /index_files/629d23a3c7b2.jpg
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55760 Closing
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55764 [200]: GET /index_files/2d9d7248af43.jpg
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55764 Closing
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55768 [200]: GET /index_files/001bc33056c1.jpg
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55768 Closing
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55772 Accepted
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55776 Accepted
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55780 Accepted
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55784 Accepted
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55772 [200]: GET /index_files/f5ae123ab1e2.jpg
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55772 Closing
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55776 [200]: GET /index_files/4b70f6fae447.png
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55776 Closing
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55780 [200]: GET /index_files/f06b908907d5.png
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55780 Closing
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55788 Accepted
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55784 [200]: GET /index_files/f55c258e826e.png
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55784 Closing
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55788 [404]: GET /index_files/f82c2ede4ccb.png - No such file or directory
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55788 Closing
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55792 Accepted
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55792 [200]: GET /index_files/fb48443ec9d3.png
+[Fri Oct  8 15:10:55 2021] 127.0.0.1:55792 Closing
+[Fri Oct  8 15:10:56 2021] 127.0.0.1:55796 Accepted
+[Fri Oct  8 15:10:56 2021] 127.0.0.1:55796 [404]: GET /index_files/d1f0f06b39df.asc - No such file or directory
+[Fri Oct  8 15:10:56 2021] 127.0.0.1:55796 Closing
+[Fri Oct  8 15:10:56 2021] 127.0.0.1:55800 Accepted
+[Fri Oct  8 15:10:56 2021] 127.0.0.1:55800 [404]: GET /index_files/b67d172d5783.asc - No such file or directory
+[Fri Oct  8 15:10:56 2021] 127.0.0.1:55800 Closing
+[Fri Oct  8 15:10:56 2021] 127.0.0.1:55804 Accepted
+[Fri Oct  8 15:10:56 2021] 127.0.0.1:55804 [404]: GET /index_files/96f2557117a2.asc - No such file or directory
+[Fri Oct  8 15:10:56 2021] 127.0.0.1:55804 Closing
+[Fri Oct  8 15:10:56 2021] 127.0.0.1:55808 Accepted
+[Fri Oct  8 15:10:56 2021] 127.0.0.1:55808 [404]: GET /index_files/f9e5c0ca0804.asc - No such file or directory
+[Fri Oct  8 15:10:56 2021] 127.0.0.1:55808 Closing
+[Fri Oct  8 15:10:56 2021] 127.0.0.1:55812 Accepted
+[Fri Oct  8 15:10:56 2021] 127.0.0.1:55812 [404]: GET /index_files/8e2c2a606042.download - No such file or directory
+[Fri Oct  8 15:10:56 2021] 127.0.0.1:55812 Closing
+[Fri Oct  8 15:31:42 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: /usr/lib/php/20190902/pdo_mysql (/usr/lib/php/20190902/pdo_mysql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_mysql.so (/usr/lib/php/20190902/pdo_mysql.so: undefined symbol: mysqlnd_allocator)) in Unknown on line 0
+[Fri Oct  8 15:31:42 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: /usr/lib/php/20190902/pdo_odbc (/usr/lib/php/20190902/pdo_odbc: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_odbc.so (/usr/lib/php/20190902/pdo_odbc.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:31:42 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: /usr/lib/php/20190902/pdo_pgsql (/usr/lib/php/20190902/pdo_pgsql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_pgsql.so (/usr/lib/php/20190902/pdo_pgsql.so: undefined symbol: pdo_parse_params)) in Unknown on line 0
+[Fri Oct  8 15:31:42 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: /usr/lib/php/20190902/pdo_sqlite (/usr/lib/php/20190902/pdo_sqlite: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_sqlite.so (/usr/lib/php/20190902/pdo_sqlite.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:31:42 2021] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[Fri Oct  8 15:31:42 2021] PHP 7.4.3 Development Server (http://localhost:8080) started
+[Fri Oct  8 15:32:03 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: /usr/lib/php/20190902/pdo_mysql (/usr/lib/php/20190902/pdo_mysql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_mysql.so (/usr/lib/php/20190902/pdo_mysql.so: undefined symbol: mysqlnd_allocator)) in Unknown on line 0
+[Fri Oct  8 15:32:03 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: /usr/lib/php/20190902/pdo_odbc (/usr/lib/php/20190902/pdo_odbc: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_odbc.so (/usr/lib/php/20190902/pdo_odbc.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:32:03 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: /usr/lib/php/20190902/pdo_pgsql (/usr/lib/php/20190902/pdo_pgsql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_pgsql.so (/usr/lib/php/20190902/pdo_pgsql.so: undefined symbol: pdo_parse_params)) in Unknown on line 0
+[Fri Oct  8 15:32:03 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: /usr/lib/php/20190902/pdo_sqlite (/usr/lib/php/20190902/pdo_sqlite: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_sqlite.so (/usr/lib/php/20190902/pdo_sqlite.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:32:03 2021] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[Fri Oct  8 15:32:03 2021] Failed to listen on localhost:8080 (reason: Address already in use)
+[Fri Oct  8 15:32:10 2021] 127.0.0.1:56138 Accepted
+[Fri Oct  8 15:32:10 2021] 127.0.0.1:56138 [302]: GET /
+[Fri Oct  8 15:32:10 2021] 127.0.0.1:56138 Closing
+[Fri Oct  8 15:32:10 2021] 127.0.0.1:56142 Accepted
+[Fri Oct  8 15:32:10 2021] 127.0.0.1:56142 [200]: GET /login.html
+[Fri Oct  8 15:32:10 2021] 127.0.0.1:56142 Closing
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56154 Accepted
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56154 [404]: GET /index_files/fbevents.js - No such file or directory
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56154 Closing
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56158 Accepted
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56162 Accepted
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56166 Accepted
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56158 [404]: GET /eventcheck.js - No such file or directory
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56158 Closing
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56162 [200]: GET /index_files/b67d172d5783.js.download
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56162 Closing
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56166 [404]: GET /index_files/sdk.asc - No such file or directory
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56166 Closing
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56172 Accepted
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56172 [404]: GET /index_files/d1f0f06b39df.asc - No such file or directory
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56172 Closing
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56176 Accepted
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56176 [404]: GET /index_files/96f2557117a2.asc - No such file or directory
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56176 Closing
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56180 Accepted
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56180 [404]: GET /index_files/f9e5c0ca0804.asc - No such file or directory
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56180 Closing
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56184 Accepted
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56184 [404]: GET /index_files/8e2c2a606042.download - No such file or directory
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56184 Closing
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56188 Accepted
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56188 [404]: GET /index_files/b67d172d5783.asc - No such file or directory
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56188 Closing
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56192 Accepted
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56192 [200]: GET /index_files/629d23a3c7b2.jpg
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56192 Closing
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56196 Accepted
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56196 [200]: GET /index_files/2d9d7248af43.jpg
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56196 Closing
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56200 Accepted
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56204 Accepted
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56208 Accepted
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56212 Accepted
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56216 Accepted
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56200 [200]: GET /index_files/001bc33056c1.jpg
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56200 Closing
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56204 [200]: GET /index_files/f5ae123ab1e2.jpg
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56208 [200]: GET /index_files/4b70f6fae447.png
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56204 Closing
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56208 Closing
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56212 [200]: GET /index_files/f06b908907d5.png
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56216 [200]: GET /index_files/f55c258e826e.png
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56212 Closing
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56216 Closing
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56220 Accepted
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56220 [404]: GET /index_files/f82c2ede4ccb.png - No such file or directory
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56220 Closing
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56224 Accepted
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56224 [200]: GET /index_files/fb48443ec9d3.png
+[Fri Oct  8 15:32:11 2021] 127.0.0.1:56224 Closing
+[Fri Oct  8 15:32:19 2021] 127.0.0.1:56232 Accepted
+[Fri Oct  8 15:32:19 2021] 127.0.0.1:56236 Accepted
+[Fri Oct  8 15:32:19 2021] 127.0.0.1:56232 [302]: POST /login.php
+[Fri Oct  8 15:32:19 2021] 127.0.0.1:56232 Closing
+[Fri Oct  8 15:33:26 2021] 127.0.0.1:56236 Closed without sending a request; it was probably just an unused speculative preconnection
+[Fri Oct  8 15:33:26 2021] 127.0.0.1:56236 Closing
+[Fri Oct  8 15:35:01 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: /usr/lib/php/20190902/pdo_mysql (/usr/lib/php/20190902/pdo_mysql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_mysql.so (/usr/lib/php/20190902/pdo_mysql.so: undefined symbol: mysqlnd_allocator)) in Unknown on line 0
+[Fri Oct  8 15:35:01 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: /usr/lib/php/20190902/pdo_odbc (/usr/lib/php/20190902/pdo_odbc: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_odbc.so (/usr/lib/php/20190902/pdo_odbc.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:35:01 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: /usr/lib/php/20190902/pdo_pgsql (/usr/lib/php/20190902/pdo_pgsql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_pgsql.so (/usr/lib/php/20190902/pdo_pgsql.so: undefined symbol: pdo_parse_params)) in Unknown on line 0
+[Fri Oct  8 15:35:01 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: /usr/lib/php/20190902/pdo_sqlite (/usr/lib/php/20190902/pdo_sqlite: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_sqlite.so (/usr/lib/php/20190902/pdo_sqlite.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:35:02 2021] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[Fri Oct  8 15:35:02 2021] Failed to listen on localhost:8080 (reason: Address already in use)
+[Fri Oct  8 15:35:40 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: /usr/lib/php/20190902/pdo_mysql (/usr/lib/php/20190902/pdo_mysql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_mysql.so (/usr/lib/php/20190902/pdo_mysql.so: undefined symbol: mysqlnd_allocator)) in Unknown on line 0
+[Fri Oct  8 15:35:40 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: /usr/lib/php/20190902/pdo_odbc (/usr/lib/php/20190902/pdo_odbc: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_odbc.so (/usr/lib/php/20190902/pdo_odbc.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:35:40 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: /usr/lib/php/20190902/pdo_pgsql (/usr/lib/php/20190902/pdo_pgsql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_pgsql.so (/usr/lib/php/20190902/pdo_pgsql.so: undefined symbol: pdo_parse_params)) in Unknown on line 0
+[Fri Oct  8 15:35:40 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: /usr/lib/php/20190902/pdo_sqlite (/usr/lib/php/20190902/pdo_sqlite: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_sqlite.so (/usr/lib/php/20190902/pdo_sqlite.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:35:40 2021] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[Fri Oct  8 15:35:40 2021] Failed to listen on localhost:8080 (reason: Address already in use)
+[Fri Oct  8 15:37:11 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: /usr/lib/php/20190902/pdo_mysql (/usr/lib/php/20190902/pdo_mysql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_mysql.so (/usr/lib/php/20190902/pdo_mysql.so: undefined symbol: mysqlnd_allocator)) in Unknown on line 0
+[Fri Oct  8 15:37:11 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: /usr/lib/php/20190902/pdo_odbc (/usr/lib/php/20190902/pdo_odbc: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_odbc.so (/usr/lib/php/20190902/pdo_odbc.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:37:11 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: /usr/lib/php/20190902/pdo_pgsql (/usr/lib/php/20190902/pdo_pgsql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_pgsql.so (/usr/lib/php/20190902/pdo_pgsql.so: undefined symbol: pdo_parse_params)) in Unknown on line 0
+[Fri Oct  8 15:37:11 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: /usr/lib/php/20190902/pdo_sqlite (/usr/lib/php/20190902/pdo_sqlite: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_sqlite.so (/usr/lib/php/20190902/pdo_sqlite.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:37:11 2021] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[Fri Oct  8 15:37:11 2021] Failed to listen on localhost:8080 (reason: Address already in use)
+[Fri Oct  8 15:38:47 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: /usr/lib/php/20190902/pdo_mysql (/usr/lib/php/20190902/pdo_mysql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_mysql.so (/usr/lib/php/20190902/pdo_mysql.so: undefined symbol: mysqlnd_allocator)) in Unknown on line 0
+[Fri Oct  8 15:38:47 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: /usr/lib/php/20190902/pdo_odbc (/usr/lib/php/20190902/pdo_odbc: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_odbc.so (/usr/lib/php/20190902/pdo_odbc.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:38:47 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: /usr/lib/php/20190902/pdo_pgsql (/usr/lib/php/20190902/pdo_pgsql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_pgsql.so (/usr/lib/php/20190902/pdo_pgsql.so: undefined symbol: pdo_parse_params)) in Unknown on line 0
+[Fri Oct  8 15:38:47 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: /usr/lib/php/20190902/pdo_sqlite (/usr/lib/php/20190902/pdo_sqlite: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_sqlite.so (/usr/lib/php/20190902/pdo_sqlite.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:38:47 2021] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[Fri Oct  8 15:38:47 2021] Failed to listen on localhost:8080 (reason: Address already in use)
+[Fri Oct  8 15:39:09 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: /usr/lib/php/20190902/pdo_mysql (/usr/lib/php/20190902/pdo_mysql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_mysql.so (/usr/lib/php/20190902/pdo_mysql.so: undefined symbol: mysqlnd_allocator)) in Unknown on line 0
+[Fri Oct  8 15:39:09 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: /usr/lib/php/20190902/pdo_odbc (/usr/lib/php/20190902/pdo_odbc: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_odbc.so (/usr/lib/php/20190902/pdo_odbc.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:39:09 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: /usr/lib/php/20190902/pdo_pgsql (/usr/lib/php/20190902/pdo_pgsql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_pgsql.so (/usr/lib/php/20190902/pdo_pgsql.so: undefined symbol: pdo_parse_params)) in Unknown on line 0
+[Fri Oct  8 15:39:09 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: /usr/lib/php/20190902/pdo_sqlite (/usr/lib/php/20190902/pdo_sqlite: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_sqlite.so (/usr/lib/php/20190902/pdo_sqlite.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:39:09 2021] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[Fri Oct  8 15:39:09 2021] Failed to listen on localhost:8080 (reason: Address already in use)
+[Fri Oct  8 15:39:15 2021] 127.0.0.1:56402 Accepted
+[Fri Oct  8 15:39:15 2021] 127.0.0.1:56402 [302]: GET /
+[Fri Oct  8 15:39:15 2021] 127.0.0.1:56402 Closing
+[Fri Oct  8 15:39:15 2021] 127.0.0.1:56406 Accepted
+[Fri Oct  8 15:39:15 2021] 127.0.0.1:56410 Accepted
+[Fri Oct  8 15:39:15 2021] 127.0.0.1:56406 [200]: GET /login.html
+[Fri Oct  8 15:39:15 2021] 127.0.0.1:56406 Closing
+[Fri Oct  8 15:39:15 2021] 127.0.0.1:56410 [404]: GET /index_files/fbevents.js - No such file or directory
+[Fri Oct  8 15:39:15 2021] 127.0.0.1:56410 Closing
+[Fri Oct  8 15:39:15 2021] 127.0.0.1:56416 Accepted
+[Fri Oct  8 15:39:15 2021] 127.0.0.1:56420 Accepted
+[Fri Oct  8 15:39:15 2021] 127.0.0.1:56416 [404]: GET /eventcheck.js - No such file or directory
+[Fri Oct  8 15:39:15 2021] 127.0.0.1:56416 Closing
+[Fri Oct  8 15:39:15 2021] 127.0.0.1:56420 [200]: GET /index_files/b67d172d5783.js.download
+[Fri Oct  8 15:39:15 2021] 127.0.0.1:56420 Closing
+[Fri Oct  8 15:39:15 2021] 127.0.0.1:56426 Accepted
+[Fri Oct  8 15:39:15 2021] 127.0.0.1:56426 [404]: GET /index_files/sdk.asc - No such file or directory
+[Fri Oct  8 15:39:15 2021] 127.0.0.1:56426 Closing
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56430 Accepted
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56430 [404]: GET /index_files/d1f0f06b39df.asc - No such file or directory
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56430 Closing
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56434 Accepted
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56438 Accepted
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56442 Accepted
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56446 Accepted
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56450 Accepted
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56454 Accepted
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56434 [404]: GET /index_files/96f2557117a2.asc - No such file or directory
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56434 Closing
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56438 [404]: GET /index_files/f9e5c0ca0804.asc - No such file or directory
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56438 Closing
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56442 [404]: GET /index_files/8e2c2a606042.download - No such file or directory
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56442 Closing
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56446 [404]: GET /index_files/b67d172d5783.asc - No such file or directory
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56446 Closing
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56450 [200]: GET /index_files/629d23a3c7b2.jpg
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56454 [200]: GET /index_files/2d9d7248af43.jpg
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56450 Closing
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56454 Closing
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56458 Accepted
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56462 Accepted
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56466 Accepted
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56470 Accepted
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56458 [200]: GET /index_files/001bc33056c1.jpg
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56458 Closing
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56474 Accepted
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56462 [200]: GET /index_files/f5ae123ab1e2.jpg
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56462 Closing
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56466 [200]: GET /index_files/4b70f6fae447.png
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56466 Closing
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56470 [200]: GET /index_files/f06b908907d5.png
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56470 Closing
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56474 [200]: GET /index_files/f55c258e826e.png
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56474 Closing
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56478 Accepted
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56482 Accepted
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56478 [404]: GET /index_files/f82c2ede4ccb.png - No such file or directory
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56478 Closing
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56482 [200]: GET /index_files/fb48443ec9d3.png
+[Fri Oct  8 15:39:16 2021] 127.0.0.1:56482 Closing
+[Fri Oct  8 15:39:23 2021] 127.0.0.1:56490 Accepted
+[Fri Oct  8 15:39:23 2021] 127.0.0.1:56490 [302]: POST /login.php
+[Fri Oct  8 15:39:23 2021] 127.0.0.1:56490 Closing
+[Fri Oct  8 15:39:23 2021] 127.0.0.1:56494 Accepted
+[Fri Oct  8 15:39:23 2021] 127.0.0.1:56498 Accepted
+[Fri Oct  8 15:40:23 2021] 127.0.0.1:56494 Closed without sending a request; it was probably just an unused speculative preconnection
+[Fri Oct  8 15:40:23 2021] 127.0.0.1:56494 Closing
+[Fri Oct  8 15:40:23 2021] 127.0.0.1:56498 Closed without sending a request; it was probably just an unused speculative preconnection
+[Fri Oct  8 15:40:23 2021] 127.0.0.1:56498 Closing
+[Fri Oct  8 15:42:09 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: /usr/lib/php/20190902/pdo_mysql (/usr/lib/php/20190902/pdo_mysql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_mysql.so (/usr/lib/php/20190902/pdo_mysql.so: undefined symbol: mysqlnd_allocator)) in Unknown on line 0
+[Fri Oct  8 15:42:09 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: /usr/lib/php/20190902/pdo_odbc (/usr/lib/php/20190902/pdo_odbc: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_odbc.so (/usr/lib/php/20190902/pdo_odbc.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:42:09 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: /usr/lib/php/20190902/pdo_pgsql (/usr/lib/php/20190902/pdo_pgsql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_pgsql.so (/usr/lib/php/20190902/pdo_pgsql.so: undefined symbol: pdo_parse_params)) in Unknown on line 0
+[Fri Oct  8 15:42:09 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: /usr/lib/php/20190902/pdo_sqlite (/usr/lib/php/20190902/pdo_sqlite: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_sqlite.so (/usr/lib/php/20190902/pdo_sqlite.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:42:09 2021] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[Fri Oct  8 15:42:09 2021] Failed to listen on localhost:8080 (reason: Address already in use)
+[Fri Oct  8 15:42:26 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: /usr/lib/php/20190902/pdo_mysql (/usr/lib/php/20190902/pdo_mysql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_mysql.so (/usr/lib/php/20190902/pdo_mysql.so: undefined symbol: mysqlnd_allocator)) in Unknown on line 0
+[Fri Oct  8 15:42:26 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: /usr/lib/php/20190902/pdo_odbc (/usr/lib/php/20190902/pdo_odbc: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_odbc.so (/usr/lib/php/20190902/pdo_odbc.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:42:26 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: /usr/lib/php/20190902/pdo_pgsql (/usr/lib/php/20190902/pdo_pgsql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_pgsql.so (/usr/lib/php/20190902/pdo_pgsql.so: undefined symbol: pdo_parse_params)) in Unknown on line 0
+[Fri Oct  8 15:42:26 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: /usr/lib/php/20190902/pdo_sqlite (/usr/lib/php/20190902/pdo_sqlite: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_sqlite.so (/usr/lib/php/20190902/pdo_sqlite.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:42:26 2021] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[Fri Oct  8 15:42:26 2021] Failed to listen on localhost:8080 (reason: Address already in use)
+[Fri Oct  8 15:43:48 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: /usr/lib/php/20190902/pdo_mysql (/usr/lib/php/20190902/pdo_mysql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_mysql.so (/usr/lib/php/20190902/pdo_mysql.so: undefined symbol: mysqlnd_allocator)) in Unknown on line 0
+[Fri Oct  8 15:43:48 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: /usr/lib/php/20190902/pdo_odbc (/usr/lib/php/20190902/pdo_odbc: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_odbc.so (/usr/lib/php/20190902/pdo_odbc.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:43:48 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: /usr/lib/php/20190902/pdo_pgsql (/usr/lib/php/20190902/pdo_pgsql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_pgsql.so (/usr/lib/php/20190902/pdo_pgsql.so: undefined symbol: pdo_parse_params)) in Unknown on line 0
+[Fri Oct  8 15:43:48 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: /usr/lib/php/20190902/pdo_sqlite (/usr/lib/php/20190902/pdo_sqlite: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_sqlite.so (/usr/lib/php/20190902/pdo_sqlite.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:43:48 2021] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[Fri Oct  8 15:43:48 2021] Failed to listen on localhost:8080 (reason: Address already in use)
+[Fri Oct  8 15:46:24 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: /usr/lib/php/20190902/pdo_mysql (/usr/lib/php/20190902/pdo_mysql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_mysql.so (/usr/lib/php/20190902/pdo_mysql.so: undefined symbol: mysqlnd_allocator)) in Unknown on line 0
+[Fri Oct  8 15:46:24 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: /usr/lib/php/20190902/pdo_odbc (/usr/lib/php/20190902/pdo_odbc: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_odbc.so (/usr/lib/php/20190902/pdo_odbc.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:46:24 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: /usr/lib/php/20190902/pdo_pgsql (/usr/lib/php/20190902/pdo_pgsql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_pgsql.so (/usr/lib/php/20190902/pdo_pgsql.so: undefined symbol: pdo_parse_params)) in Unknown on line 0
+[Fri Oct  8 15:46:24 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: /usr/lib/php/20190902/pdo_sqlite (/usr/lib/php/20190902/pdo_sqlite: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_sqlite.so (/usr/lib/php/20190902/pdo_sqlite.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:46:24 2021] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[Fri Oct  8 15:46:24 2021] Failed to listen on localhost:8080 (reason: Address already in use)
+[Fri Oct  8 15:46:32 2021] 127.0.0.1:56622 Accepted
+[Fri Oct  8 15:46:32 2021] 127.0.0.1:56626 Accepted
+[Fri Oct  8 15:46:37 2021] 127.0.0.1:56622 [302]: POST /login.php
+[Fri Oct  8 15:46:37 2021] 127.0.0.1:56622 Closing
+[Fri Oct  8 15:46:37 2021] 127.0.0.1:56636 Accepted
+[Fri Oct  8 15:47:32 2021] 127.0.0.1:56626 Closed without sending a request; it was probably just an unused speculative preconnection
+[Fri Oct  8 15:47:32 2021] 127.0.0.1:56626 Closing
+[Fri Oct  8 15:47:38 2021] 127.0.0.1:56636 Closed without sending a request; it was probably just an unused speculative preconnection
+[Fri Oct  8 15:47:38 2021] 127.0.0.1:56636 Closing
+[Fri Oct  8 15:48:18 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: /usr/lib/php/20190902/pdo_mysql (/usr/lib/php/20190902/pdo_mysql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_mysql.so (/usr/lib/php/20190902/pdo_mysql.so: undefined symbol: mysqlnd_allocator)) in Unknown on line 0
+[Fri Oct  8 15:48:18 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: /usr/lib/php/20190902/pdo_odbc (/usr/lib/php/20190902/pdo_odbc: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_odbc.so (/usr/lib/php/20190902/pdo_odbc.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:48:18 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: /usr/lib/php/20190902/pdo_pgsql (/usr/lib/php/20190902/pdo_pgsql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_pgsql.so (/usr/lib/php/20190902/pdo_pgsql.so: undefined symbol: pdo_parse_params)) in Unknown on line 0
+[Fri Oct  8 15:48:18 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: /usr/lib/php/20190902/pdo_sqlite (/usr/lib/php/20190902/pdo_sqlite: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_sqlite.so (/usr/lib/php/20190902/pdo_sqlite.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:48:18 2021] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[Fri Oct  8 15:48:18 2021] Failed to listen on localhost:8080 (reason: Address already in use)
+[Fri Oct  8 15:48:21 2021] 127.0.0.1:56670 Accepted
+[Fri Oct  8 15:48:21 2021] 127.0.0.1:56674 Accepted
+[Fri Oct  8 15:48:26 2021] 127.0.0.1:56670 [302]: POST /login.php
+[Fri Oct  8 15:48:26 2021] 127.0.0.1:56670 Closing
+[Fri Oct  8 15:49:26 2021] 127.0.0.1:56674 Closed without sending a request; it was probably just an unused speculative preconnection
+[Fri Oct  8 15:49:26 2021] 127.0.0.1:56674 Closing
+[Fri Oct  8 15:50:12 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: /usr/lib/php/20190902/pdo_mysql (/usr/lib/php/20190902/pdo_mysql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_mysql.so (/usr/lib/php/20190902/pdo_mysql.so: undefined symbol: mysqlnd_allocator)) in Unknown on line 0
+[Fri Oct  8 15:50:12 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: /usr/lib/php/20190902/pdo_odbc (/usr/lib/php/20190902/pdo_odbc: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_odbc.so (/usr/lib/php/20190902/pdo_odbc.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:50:12 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: /usr/lib/php/20190902/pdo_pgsql (/usr/lib/php/20190902/pdo_pgsql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_pgsql.so (/usr/lib/php/20190902/pdo_pgsql.so: undefined symbol: pdo_parse_params)) in Unknown on line 0
+[Fri Oct  8 15:50:12 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: /usr/lib/php/20190902/pdo_sqlite (/usr/lib/php/20190902/pdo_sqlite: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_sqlite.so (/usr/lib/php/20190902/pdo_sqlite.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:50:12 2021] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[Fri Oct  8 15:50:12 2021] Failed to listen on localhost:8080 (reason: Address already in use)
+[Fri Oct  8 15:50:45 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: /usr/lib/php/20190902/pdo_mysql (/usr/lib/php/20190902/pdo_mysql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_mysql.so (/usr/lib/php/20190902/pdo_mysql.so: undefined symbol: mysqlnd_allocator)) in Unknown on line 0
+[Fri Oct  8 15:50:45 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: /usr/lib/php/20190902/pdo_odbc (/usr/lib/php/20190902/pdo_odbc: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_odbc.so (/usr/lib/php/20190902/pdo_odbc.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:50:45 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: /usr/lib/php/20190902/pdo_pgsql (/usr/lib/php/20190902/pdo_pgsql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_pgsql.so (/usr/lib/php/20190902/pdo_pgsql.so: undefined symbol: pdo_parse_params)) in Unknown on line 0
+[Fri Oct  8 15:50:45 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: /usr/lib/php/20190902/pdo_sqlite (/usr/lib/php/20190902/pdo_sqlite: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_sqlite.so (/usr/lib/php/20190902/pdo_sqlite.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:50:45 2021] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[Fri Oct  8 15:50:45 2021] Failed to listen on localhost:8080 (reason: Address already in use)
+[Fri Oct  8 15:53:32 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: /usr/lib/php/20190902/pdo_mysql (/usr/lib/php/20190902/pdo_mysql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_mysql.so (/usr/lib/php/20190902/pdo_mysql.so: undefined symbol: mysqlnd_allocator)) in Unknown on line 0
+[Fri Oct  8 15:53:32 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: /usr/lib/php/20190902/pdo_odbc (/usr/lib/php/20190902/pdo_odbc: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_odbc.so (/usr/lib/php/20190902/pdo_odbc.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:53:32 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: /usr/lib/php/20190902/pdo_pgsql (/usr/lib/php/20190902/pdo_pgsql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_pgsql.so (/usr/lib/php/20190902/pdo_pgsql.so: undefined symbol: pdo_parse_params)) in Unknown on line 0
+[Fri Oct  8 15:53:32 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: /usr/lib/php/20190902/pdo_sqlite (/usr/lib/php/20190902/pdo_sqlite: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_sqlite.so (/usr/lib/php/20190902/pdo_sqlite.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:53:32 2021] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[Fri Oct  8 15:53:32 2021] Failed to listen on localhost:8080 (reason: Address already in use)
+[Fri Oct  8 15:55:28 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: /usr/lib/php/20190902/pdo_mysql (/usr/lib/php/20190902/pdo_mysql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_mysql.so (/usr/lib/php/20190902/pdo_mysql.so: undefined symbol: mysqlnd_allocator)) in Unknown on line 0
+[Fri Oct  8 15:55:28 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: /usr/lib/php/20190902/pdo_odbc (/usr/lib/php/20190902/pdo_odbc: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_odbc.so (/usr/lib/php/20190902/pdo_odbc.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:55:28 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: /usr/lib/php/20190902/pdo_pgsql (/usr/lib/php/20190902/pdo_pgsql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_pgsql.so (/usr/lib/php/20190902/pdo_pgsql.so: undefined symbol: pdo_parse_params)) in Unknown on line 0
+[Fri Oct  8 15:55:28 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: /usr/lib/php/20190902/pdo_sqlite (/usr/lib/php/20190902/pdo_sqlite: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_sqlite.so (/usr/lib/php/20190902/pdo_sqlite.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:55:28 2021] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[Fri Oct  8 15:55:28 2021] Failed to listen on localhost:8080 (reason: Address already in use)
+[Fri Oct  8 15:56:41 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: /usr/lib/php/20190902/pdo_mysql (/usr/lib/php/20190902/pdo_mysql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_mysql.so (/usr/lib/php/20190902/pdo_mysql.so: undefined symbol: mysqlnd_allocator)) in Unknown on line 0
+[Fri Oct  8 15:56:41 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: /usr/lib/php/20190902/pdo_odbc (/usr/lib/php/20190902/pdo_odbc: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_odbc.so (/usr/lib/php/20190902/pdo_odbc.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:56:41 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: /usr/lib/php/20190902/pdo_pgsql (/usr/lib/php/20190902/pdo_pgsql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_pgsql.so (/usr/lib/php/20190902/pdo_pgsql.so: undefined symbol: pdo_parse_params)) in Unknown on line 0
+[Fri Oct  8 15:56:41 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: /usr/lib/php/20190902/pdo_sqlite (/usr/lib/php/20190902/pdo_sqlite: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_sqlite.so (/usr/lib/php/20190902/pdo_sqlite.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:56:41 2021] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[Fri Oct  8 15:56:41 2021] Failed to listen on localhost:8080 (reason: Address already in use)
+[Fri Oct  8 15:58:01 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: /usr/lib/php/20190902/pdo_mysql (/usr/lib/php/20190902/pdo_mysql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_mysql.so (/usr/lib/php/20190902/pdo_mysql.so: undefined symbol: mysqlnd_allocator)) in Unknown on line 0
+[Fri Oct  8 15:58:01 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: /usr/lib/php/20190902/pdo_odbc (/usr/lib/php/20190902/pdo_odbc: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_odbc.so (/usr/lib/php/20190902/pdo_odbc.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:58:01 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: /usr/lib/php/20190902/pdo_pgsql (/usr/lib/php/20190902/pdo_pgsql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_pgsql.so (/usr/lib/php/20190902/pdo_pgsql.so: undefined symbol: pdo_parse_params)) in Unknown on line 0
+[Fri Oct  8 15:58:01 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: /usr/lib/php/20190902/pdo_sqlite (/usr/lib/php/20190902/pdo_sqlite: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_sqlite.so (/usr/lib/php/20190902/pdo_sqlite.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:58:01 2021] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[Fri Oct  8 15:58:01 2021] Failed to listen on localhost:8080 (reason: Address already in use)
+[Fri Oct  8 15:58:21 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: /usr/lib/php/20190902/pdo_mysql (/usr/lib/php/20190902/pdo_mysql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_mysql.so (/usr/lib/php/20190902/pdo_mysql.so: undefined symbol: mysqlnd_allocator)) in Unknown on line 0
+[Fri Oct  8 15:58:21 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: /usr/lib/php/20190902/pdo_odbc (/usr/lib/php/20190902/pdo_odbc: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_odbc.so (/usr/lib/php/20190902/pdo_odbc.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:58:21 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: /usr/lib/php/20190902/pdo_pgsql (/usr/lib/php/20190902/pdo_pgsql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_pgsql.so (/usr/lib/php/20190902/pdo_pgsql.so: undefined symbol: pdo_parse_params)) in Unknown on line 0
+[Fri Oct  8 15:58:21 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: /usr/lib/php/20190902/pdo_sqlite (/usr/lib/php/20190902/pdo_sqlite: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_sqlite.so (/usr/lib/php/20190902/pdo_sqlite.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:58:21 2021] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[Fri Oct  8 15:58:21 2021] Failed to listen on localhost:8080 (reason: Address already in use)
+[Fri Oct  8 15:59:10 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: /usr/lib/php/20190902/pdo_mysql (/usr/lib/php/20190902/pdo_mysql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_mysql.so (/usr/lib/php/20190902/pdo_mysql.so: undefined symbol: mysqlnd_allocator)) in Unknown on line 0
+[Fri Oct  8 15:59:10 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: /usr/lib/php/20190902/pdo_odbc (/usr/lib/php/20190902/pdo_odbc: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_odbc.so (/usr/lib/php/20190902/pdo_odbc.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:59:10 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: /usr/lib/php/20190902/pdo_pgsql (/usr/lib/php/20190902/pdo_pgsql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_pgsql.so (/usr/lib/php/20190902/pdo_pgsql.so: undefined symbol: pdo_parse_params)) in Unknown on line 0
+[Fri Oct  8 15:59:10 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: /usr/lib/php/20190902/pdo_sqlite (/usr/lib/php/20190902/pdo_sqlite: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_sqlite.so (/usr/lib/php/20190902/pdo_sqlite.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 15:59:10 2021] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[Fri Oct  8 15:59:10 2021] Failed to listen on localhost:8080 (reason: Address already in use)
+[Fri Oct  8 16:00:10 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: /usr/lib/php/20190902/pdo_mysql (/usr/lib/php/20190902/pdo_mysql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_mysql.so (/usr/lib/php/20190902/pdo_mysql.so: undefined symbol: mysqlnd_allocator)) in Unknown on line 0
+[Fri Oct  8 16:00:10 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: /usr/lib/php/20190902/pdo_odbc (/usr/lib/php/20190902/pdo_odbc: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_odbc.so (/usr/lib/php/20190902/pdo_odbc.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 16:00:10 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: /usr/lib/php/20190902/pdo_pgsql (/usr/lib/php/20190902/pdo_pgsql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_pgsql.so (/usr/lib/php/20190902/pdo_pgsql.so: undefined symbol: pdo_parse_params)) in Unknown on line 0
+[Fri Oct  8 16:00:10 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: /usr/lib/php/20190902/pdo_sqlite (/usr/lib/php/20190902/pdo_sqlite: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_sqlite.so (/usr/lib/php/20190902/pdo_sqlite.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 16:00:10 2021] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[Fri Oct  8 16:00:10 2021] Failed to listen on localhost:8080 (reason: Address already in use)
+[Fri Oct  8 16:00:18 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: /usr/lib/php/20190902/pdo_mysql (/usr/lib/php/20190902/pdo_mysql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_mysql.so (/usr/lib/php/20190902/pdo_mysql.so: undefined symbol: mysqlnd_allocator)) in Unknown on line 0
+[Fri Oct  8 16:00:18 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: /usr/lib/php/20190902/pdo_odbc (/usr/lib/php/20190902/pdo_odbc: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_odbc.so (/usr/lib/php/20190902/pdo_odbc.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 16:00:18 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: /usr/lib/php/20190902/pdo_pgsql (/usr/lib/php/20190902/pdo_pgsql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_pgsql.so (/usr/lib/php/20190902/pdo_pgsql.so: undefined symbol: pdo_parse_params)) in Unknown on line 0
+[Fri Oct  8 16:00:18 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: /usr/lib/php/20190902/pdo_sqlite (/usr/lib/php/20190902/pdo_sqlite: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_sqlite.so (/usr/lib/php/20190902/pdo_sqlite.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 16:00:18 2021] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[Fri Oct  8 16:00:18 2021] Failed to listen on localhost:8080 (reason: Address already in use)
+[Fri Oct  8 16:04:39 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: /usr/lib/php/20190902/pdo_mysql (/usr/lib/php/20190902/pdo_mysql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_mysql.so (/usr/lib/php/20190902/pdo_mysql.so: undefined symbol: mysqlnd_allocator)) in Unknown on line 0
+[Fri Oct  8 16:04:39 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: /usr/lib/php/20190902/pdo_odbc (/usr/lib/php/20190902/pdo_odbc: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_odbc.so (/usr/lib/php/20190902/pdo_odbc.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 16:04:39 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: /usr/lib/php/20190902/pdo_pgsql (/usr/lib/php/20190902/pdo_pgsql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_pgsql.so (/usr/lib/php/20190902/pdo_pgsql.so: undefined symbol: pdo_parse_params)) in Unknown on line 0
+[Fri Oct  8 16:04:39 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: /usr/lib/php/20190902/pdo_sqlite (/usr/lib/php/20190902/pdo_sqlite: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_sqlite.so (/usr/lib/php/20190902/pdo_sqlite.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 16:04:39 2021] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[Fri Oct  8 16:04:39 2021] Failed to listen on localhost:8080 (reason: Address already in use)
+[Fri Oct  8 16:04:50 2021] 127.0.0.1:57024 Accepted
+[Fri Oct  8 16:04:50 2021] 127.0.0.1:57028 Accepted
+[Fri Oct  8 16:04:54 2021] 127.0.0.1:57024 [302]: POST /login.php
+[Fri Oct  8 16:04:54 2021] 127.0.0.1:57024 Closing
+[Fri Oct  8 16:05:54 2021] 127.0.0.1:57028 Closed without sending a request; it was probably just an unused speculative preconnection
+[Fri Oct  8 16:05:54 2021] 127.0.0.1:57028 Closing
+[Fri Oct  8 16:06:31 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: /usr/lib/php/20190902/pdo_mysql (/usr/lib/php/20190902/pdo_mysql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_mysql.so (/usr/lib/php/20190902/pdo_mysql.so: undefined symbol: mysqlnd_allocator)) in Unknown on line 0
+[Fri Oct  8 16:06:31 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: /usr/lib/php/20190902/pdo_odbc (/usr/lib/php/20190902/pdo_odbc: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_odbc.so (/usr/lib/php/20190902/pdo_odbc.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 16:06:31 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: /usr/lib/php/20190902/pdo_pgsql (/usr/lib/php/20190902/pdo_pgsql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_pgsql.so (/usr/lib/php/20190902/pdo_pgsql.so: undefined symbol: pdo_parse_params)) in Unknown on line 0
+[Fri Oct  8 16:06:31 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: /usr/lib/php/20190902/pdo_sqlite (/usr/lib/php/20190902/pdo_sqlite: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_sqlite.so (/usr/lib/php/20190902/pdo_sqlite.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 16:06:31 2021] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[Fri Oct  8 16:06:31 2021] Failed to listen on localhost:8080 (reason: Address already in use)
+[Fri Oct  8 16:08:24 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: /usr/lib/php/20190902/pdo_mysql (/usr/lib/php/20190902/pdo_mysql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_mysql.so (/usr/lib/php/20190902/pdo_mysql.so: undefined symbol: mysqlnd_allocator)) in Unknown on line 0
+[Fri Oct  8 16:08:24 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: /usr/lib/php/20190902/pdo_odbc (/usr/lib/php/20190902/pdo_odbc: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_odbc.so (/usr/lib/php/20190902/pdo_odbc.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 16:08:24 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: /usr/lib/php/20190902/pdo_pgsql (/usr/lib/php/20190902/pdo_pgsql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_pgsql.so (/usr/lib/php/20190902/pdo_pgsql.so: undefined symbol: pdo_parse_params)) in Unknown on line 0
+[Fri Oct  8 16:08:24 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: /usr/lib/php/20190902/pdo_sqlite (/usr/lib/php/20190902/pdo_sqlite: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_sqlite.so (/usr/lib/php/20190902/pdo_sqlite.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 16:08:24 2021] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[Fri Oct  8 16:08:24 2021] Failed to listen on localhost:8080 (reason: Address already in use)
+[Fri Oct  8 16:12:50 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: /usr/lib/php/20190902/pdo_mysql (/usr/lib/php/20190902/pdo_mysql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_mysql.so (/usr/lib/php/20190902/pdo_mysql.so: undefined symbol: mysqlnd_allocator)) in Unknown on line 0
+[Fri Oct  8 16:12:50 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: /usr/lib/php/20190902/pdo_odbc (/usr/lib/php/20190902/pdo_odbc: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_odbc.so (/usr/lib/php/20190902/pdo_odbc.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 16:12:50 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: /usr/lib/php/20190902/pdo_pgsql (/usr/lib/php/20190902/pdo_pgsql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_pgsql.so (/usr/lib/php/20190902/pdo_pgsql.so: undefined symbol: pdo_parse_params)) in Unknown on line 0
+[Fri Oct  8 16:12:50 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: /usr/lib/php/20190902/pdo_sqlite (/usr/lib/php/20190902/pdo_sqlite: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_sqlite.so (/usr/lib/php/20190902/pdo_sqlite.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 16:12:50 2021] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[Fri Oct  8 16:12:50 2021] Failed to listen on localhost:8080 (reason: Address already in use)
+[Fri Oct  8 16:13:16 2021] 127.0.0.1:57126 Accepted
+[Fri Oct  8 16:13:16 2021] 127.0.0.1:57130 Accepted
+[Fri Oct  8 16:13:20 2021] 127.0.0.1:57126 [302]: POST /login.php
+[Fri Oct  8 16:13:20 2021] 127.0.0.1:57126 Closing
+[Fri Oct  8 16:13:29 2021] 127.0.0.1:57142 Accepted
+[Fri Oct  8 16:13:34 2021] 127.0.0.1:57130 [302]: POST /login.php
+[Fri Oct  8 16:13:34 2021] 127.0.0.1:57130 Closing
+[Fri Oct  8 16:14:04 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: /usr/lib/php/20190902/pdo_mysql (/usr/lib/php/20190902/pdo_mysql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_mysql.so (/usr/lib/php/20190902/pdo_mysql.so: undefined symbol: mysqlnd_allocator)) in Unknown on line 0
+[Fri Oct  8 16:14:04 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: /usr/lib/php/20190902/pdo_odbc (/usr/lib/php/20190902/pdo_odbc: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_odbc.so (/usr/lib/php/20190902/pdo_odbc.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 16:14:04 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: /usr/lib/php/20190902/pdo_pgsql (/usr/lib/php/20190902/pdo_pgsql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_pgsql.so (/usr/lib/php/20190902/pdo_pgsql.so: undefined symbol: pdo_parse_params)) in Unknown on line 0
+[Fri Oct  8 16:14:04 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: /usr/lib/php/20190902/pdo_sqlite (/usr/lib/php/20190902/pdo_sqlite: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_sqlite.so (/usr/lib/php/20190902/pdo_sqlite.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 16:14:04 2021] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[Fri Oct  8 16:14:04 2021] Failed to listen on localhost:8080 (reason: Address already in use)
+[Fri Oct  8 16:14:29 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: /usr/lib/php/20190902/pdo_mysql (/usr/lib/php/20190902/pdo_mysql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_mysql.so (/usr/lib/php/20190902/pdo_mysql.so: undefined symbol: mysqlnd_allocator)) in Unknown on line 0
+[Fri Oct  8 16:14:29 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: /usr/lib/php/20190902/pdo_odbc (/usr/lib/php/20190902/pdo_odbc: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_odbc.so (/usr/lib/php/20190902/pdo_odbc.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 16:14:29 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: /usr/lib/php/20190902/pdo_pgsql (/usr/lib/php/20190902/pdo_pgsql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_pgsql.so (/usr/lib/php/20190902/pdo_pgsql.so: undefined symbol: pdo_parse_params)) in Unknown on line 0
+[Fri Oct  8 16:14:29 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: /usr/lib/php/20190902/pdo_sqlite (/usr/lib/php/20190902/pdo_sqlite: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_sqlite.so (/usr/lib/php/20190902/pdo_sqlite.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 16:14:29 2021] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[Fri Oct  8 16:14:29 2021] Failed to listen on localhost:8080 (reason: Address already in use)
+[Fri Oct  8 16:14:34 2021] 127.0.0.1:57142 Closed without sending a request; it was probably just an unused speculative preconnection
+[Fri Oct  8 16:14:34 2021] 127.0.0.1:57142 Closing
+[Fri Oct  8 16:17:52 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: /usr/lib/php/20190902/pdo_mysql (/usr/lib/php/20190902/pdo_mysql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_mysql.so (/usr/lib/php/20190902/pdo_mysql.so: undefined symbol: mysqlnd_allocator)) in Unknown on line 0
+[Fri Oct  8 16:17:52 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: /usr/lib/php/20190902/pdo_odbc (/usr/lib/php/20190902/pdo_odbc: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_odbc.so (/usr/lib/php/20190902/pdo_odbc.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 16:17:52 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: /usr/lib/php/20190902/pdo_pgsql (/usr/lib/php/20190902/pdo_pgsql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_pgsql.so (/usr/lib/php/20190902/pdo_pgsql.so: undefined symbol: pdo_parse_params)) in Unknown on line 0
+[Fri Oct  8 16:17:52 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: /usr/lib/php/20190902/pdo_sqlite (/usr/lib/php/20190902/pdo_sqlite: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_sqlite.so (/usr/lib/php/20190902/pdo_sqlite.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 16:17:52 2021] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[Fri Oct  8 16:17:52 2021] Failed to listen on localhost:8080 (reason: Address already in use)
+[Fri Oct  8 16:18:24 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: /usr/lib/php/20190902/pdo_mysql (/usr/lib/php/20190902/pdo_mysql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_mysql.so (/usr/lib/php/20190902/pdo_mysql.so: undefined symbol: mysqlnd_allocator)) in Unknown on line 0
+[Fri Oct  8 16:18:24 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: /usr/lib/php/20190902/pdo_odbc (/usr/lib/php/20190902/pdo_odbc: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_odbc.so (/usr/lib/php/20190902/pdo_odbc.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 16:18:24 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: /usr/lib/php/20190902/pdo_pgsql (/usr/lib/php/20190902/pdo_pgsql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_pgsql.so (/usr/lib/php/20190902/pdo_pgsql.so: undefined symbol: pdo_parse_params)) in Unknown on line 0
+[Fri Oct  8 16:18:24 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: /usr/lib/php/20190902/pdo_sqlite (/usr/lib/php/20190902/pdo_sqlite: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_sqlite.so (/usr/lib/php/20190902/pdo_sqlite.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 16:18:24 2021] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[Fri Oct  8 16:18:24 2021] Failed to listen on localhost:8080 (reason: Address already in use)
+[Fri Oct  8 16:18:36 2021] 127.0.0.1:57214 Accepted
+[Fri Oct  8 16:18:36 2021] 127.0.0.1:57218 Accepted
+[Fri Oct  8 16:18:42 2021] 127.0.0.1:57214 [302]: POST /login.php
+[Fri Oct  8 16:18:42 2021] 127.0.0.1:57214 Closing
+[Fri Oct  8 16:19:37 2021] 127.0.0.1:57218 Closed without sending a request; it was probably just an unused speculative preconnection
+[Fri Oct  8 16:19:37 2021] 127.0.0.1:57218 Closing
+[Fri Oct  8 16:24:59 2021] 127.0.0.1:57396 Accepted
+[Fri Oct  8 16:24:59 2021] 127.0.0.1:57400 Accepted
+[Fri Oct  8 16:25:04 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: /usr/lib/php/20190902/pdo_mysql (/usr/lib/php/20190902/pdo_mysql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_mysql.so (/usr/lib/php/20190902/pdo_mysql.so: undefined symbol: mysqlnd_allocator)) in Unknown on line 0
+[Fri Oct  8 16:25:04 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: /usr/lib/php/20190902/pdo_odbc (/usr/lib/php/20190902/pdo_odbc: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_odbc.so (/usr/lib/php/20190902/pdo_odbc.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 16:25:04 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: /usr/lib/php/20190902/pdo_pgsql (/usr/lib/php/20190902/pdo_pgsql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_pgsql.so (/usr/lib/php/20190902/pdo_pgsql.so: undefined symbol: pdo_parse_params)) in Unknown on line 0
+[Fri Oct  8 16:25:04 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: /usr/lib/php/20190902/pdo_sqlite (/usr/lib/php/20190902/pdo_sqlite: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_sqlite.so (/usr/lib/php/20190902/pdo_sqlite.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 16:25:04 2021] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[Fri Oct  8 16:25:04 2021] Failed to listen on localhost:8080 (reason: Address already in use)
+[Fri Oct  8 16:25:09 2021] 127.0.0.1:57396 [302]: POST /login.php
+[Fri Oct  8 16:25:09 2021] 127.0.0.1:57396 Closing
+[Fri Oct  8 16:26:00 2021] 127.0.0.1:57400 Closed without sending a request; it was probably just an unused speculative preconnection
+[Fri Oct  8 16:26:00 2021] 127.0.0.1:57400 Closing
+[Fri Oct  8 16:27:01 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: /usr/lib/php/20190902/pdo_mysql (/usr/lib/php/20190902/pdo_mysql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_mysql.so (/usr/lib/php/20190902/pdo_mysql.so: undefined symbol: mysqlnd_allocator)) in Unknown on line 0
+[Fri Oct  8 16:27:01 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: /usr/lib/php/20190902/pdo_odbc (/usr/lib/php/20190902/pdo_odbc: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_odbc.so (/usr/lib/php/20190902/pdo_odbc.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 16:27:01 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: /usr/lib/php/20190902/pdo_pgsql (/usr/lib/php/20190902/pdo_pgsql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_pgsql.so (/usr/lib/php/20190902/pdo_pgsql.so: undefined symbol: pdo_parse_params)) in Unknown on line 0
+[Fri Oct  8 16:27:01 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: /usr/lib/php/20190902/pdo_sqlite (/usr/lib/php/20190902/pdo_sqlite: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_sqlite.so (/usr/lib/php/20190902/pdo_sqlite.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 16:27:01 2021] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[Fri Oct  8 16:27:01 2021] Failed to listen on localhost:8080 (reason: Address already in use)
+[Fri Oct  8 16:27:08 2021] 127.0.0.1:57440 Accepted
+[Fri Oct  8 16:27:08 2021] 127.0.0.1:57444 Accepted
+[Fri Oct  8 16:27:17 2021] 127.0.0.1:57440 [302]: POST /login.php
+[Fri Oct  8 16:27:17 2021] 127.0.0.1:57440 Closing
+[Fri Oct  8 16:28:11 2021] 127.0.0.1:57444 Closed without sending a request; it was probably just an unused speculative preconnection
+[Fri Oct  8 16:28:11 2021] 127.0.0.1:57444 Closing
+[Fri Oct  8 17:53:25 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: /usr/lib/php/20190902/pdo_mysql (/usr/lib/php/20190902/pdo_mysql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_mysql.so (/usr/lib/php/20190902/pdo_mysql.so: undefined symbol: mysqlnd_allocator)) in Unknown on line 0
+[Fri Oct  8 17:53:25 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: /usr/lib/php/20190902/pdo_odbc (/usr/lib/php/20190902/pdo_odbc: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_odbc.so (/usr/lib/php/20190902/pdo_odbc.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 17:53:25 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: /usr/lib/php/20190902/pdo_pgsql (/usr/lib/php/20190902/pdo_pgsql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_pgsql.so (/usr/lib/php/20190902/pdo_pgsql.so: undefined symbol: pdo_parse_params)) in Unknown on line 0
+[Fri Oct  8 17:53:25 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: /usr/lib/php/20190902/pdo_sqlite (/usr/lib/php/20190902/pdo_sqlite: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_sqlite.so (/usr/lib/php/20190902/pdo_sqlite.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Fri Oct  8 17:53:25 2021] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[Fri Oct  8 17:53:25 2021] PHP 7.4.3 Development Server (http://localhost:8080) started
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58634 Accepted
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58638 Accepted
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58634 [302]: GET /
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58634 Closing
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58638 [200]: GET /login.html
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58638 Closing
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58644 Accepted
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58644 [404]: GET /index_files/fbevents.js - No such file or directory
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58644 Closing
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58650 Accepted
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58654 Accepted
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58658 Accepted
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58662 Accepted
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58666 Accepted
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58672 Accepted
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58650 [404]: GET /eventcheck.js - No such file or directory
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58650 Closing
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58654 [200]: GET /index_files/b67d172d5783.js.download
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58654 Closing
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58658 [404]: GET /index_files/sdk.asc - No such file or directory
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58658 Closing
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58662 [404]: GET /index_files/b67d172d5783.asc - No such file or directory
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58662 Closing
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58666 [200]: GET /index_files/629d23a3c7b2.jpg
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58666 Closing
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58672 [200]: GET /index_files/2d9d7248af43.jpg
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58672 Closing
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58676 Accepted
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58680 Accepted
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58684 Accepted
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58676 [200]: GET /index_files/001bc33056c1.jpg
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58676 Closing
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58680 [200]: GET /index_files/f5ae123ab1e2.jpg
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58684 [200]: GET /index_files/4b70f6fae447.png
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58680 Closing
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58684 Closing
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58688 Accepted
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58692 Accepted
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58696 Accepted
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58688 [200]: GET /index_files/f06b908907d5.png
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58688 Closing
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58692 [200]: GET /index_files/f55c258e826e.png
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58692 Closing
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58700 Accepted
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58696 [404]: GET /index_files/d1f0f06b39df.asc - No such file or directory
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58696 Closing
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58704 Accepted
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58708 Accepted
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58700 [404]: GET /index_files/96f2557117a2.asc - No such file or directory
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58700 Closing
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58704 [404]: GET /index_files/f9e5c0ca0804.asc - No such file or directory
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58704 Closing
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58708 [404]: GET /index_files/8e2c2a606042.download - No such file or directory
+[Fri Oct  8 17:53:29 2021] 127.0.0.1:58708 Closing
+[Fri Oct  8 17:53:30 2021] 127.0.0.1:58712 Accepted
+[Fri Oct  8 17:53:30 2021] 127.0.0.1:58716 Accepted
+[Fri Oct  8 17:53:30 2021] 127.0.0.1:58712 [404]: GET /index_files/f82c2ede4ccb.png - No such file or directory
+[Fri Oct  8 17:53:30 2021] 127.0.0.1:58712 Closing
+[Fri Oct  8 17:53:31 2021] 127.0.0.1:58716 [200]: GET /index_files/fb48443ec9d3.png
+[Fri Oct  8 17:53:31 2021] 127.0.0.1:58716 Closing
+[Fri Oct  8 17:53:37 2021] 127.0.0.1:58736 Accepted
+[Fri Oct  8 17:53:37 2021] 127.0.0.1:58740 Accepted
+[Fri Oct  8 17:53:37 2021] 127.0.0.1:58736 [302]: POST /login.php
+[Fri Oct  8 17:53:37 2021] 127.0.0.1:58736 Closing
+[Sat Oct 16 00:29:56 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: /usr/lib/php/20190902/pdo_mysql (/usr/lib/php/20190902/pdo_mysql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_mysql.so (/usr/lib/php/20190902/pdo_mysql.so: undefined symbol: mysqlnd_allocator)) in Unknown on line 0
+[Sat Oct 16 00:29:56 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: /usr/lib/php/20190902/pdo_odbc (/usr/lib/php/20190902/pdo_odbc: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_odbc.so (/usr/lib/php/20190902/pdo_odbc.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Sat Oct 16 00:29:56 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: /usr/lib/php/20190902/pdo_pgsql (/usr/lib/php/20190902/pdo_pgsql: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_pgsql.so (/usr/lib/php/20190902/pdo_pgsql.so: undefined symbol: pdo_parse_params)) in Unknown on line 0
+[Sat Oct 16 00:29:56 2021] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: /usr/lib/php/20190902/pdo_sqlite (/usr/lib/php/20190902/pdo_sqlite: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/pdo_sqlite.so (/usr/lib/php/20190902/pdo_sqlite.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Sat Oct 16 00:29:56 2021] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[Sat Oct 16 00:29:56 2021] PHP 7.4.3 Development Server (http://localhost:8080) started
+[Sat Oct 16 00:30:04 2021] 127.0.0.1:39462 Accepted
+[Sat Oct 16 00:30:04 2021] 127.0.0.1:39466 Accepted
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39462 [302]: GET /
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39462 Closing
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39466 [200]: GET /login.html
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39466 Closing
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39480 Accepted
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39484 Accepted
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39488 Accepted
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39492 Accepted
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39480 [404]: GET /index_files/fbevents.js - No such file or directory
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39480 Closing
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39484 [404]: GET /eventcheck.js - No such file or directory
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39484 Closing
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39488 [200]: GET /index_files/b67d172d5783.js.download
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39492 [404]: GET /index_files/sdk.asc - No such file or directory
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39488 Closing
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39492 Closing
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39498 Accepted
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39498 [404]: GET /index_files/d1f0f06b39df.asc - No such file or directory
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39498 Closing
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39502 Accepted
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39502 [404]: GET /index_files/96f2557117a2.asc - No such file or directory
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39502 Closing
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39506 Accepted
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39510 Accepted
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39506 [404]: GET /index_files/f9e5c0ca0804.asc - No such file or directory
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39506 Closing
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39510 [404]: GET /index_files/8e2c2a606042.download - No such file or directory
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39510 Closing
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39514 Accepted
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39514 [404]: GET /index_files/b67d172d5783.asc - No such file or directory
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39514 Closing
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39518 Accepted
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39518 [200]: GET /index_files/629d23a3c7b2.jpg
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39518 Closing
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39522 Accepted
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39522 [200]: GET /index_files/2d9d7248af43.jpg
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39526 Accepted
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39522 Closing
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39530 Accepted
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39526 [200]: GET /index_files/001bc33056c1.jpg
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39534 Accepted
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39530 [200]: GET /index_files/f5ae123ab1e2.jpg
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39538 Accepted
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39534 [200]: GET /index_files/4b70f6fae447.png
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39542 Accepted
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39526 Closing
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39538 [200]: GET /index_files/f06b908907d5.png
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39546 Accepted
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39530 Closing
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39542 [200]: GET /index_files/f55c258e826e.png
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39550 Accepted
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39546 [404]: GET /index_files/f82c2ede4ccb.png - No such file or directory
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39534 Closing
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39546 Closing
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39550 [200]: GET /index_files/fb48443ec9d3.png
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39538 Closing
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39542 Closing
+[Sat Oct 16 00:30:05 2021] 127.0.0.1:39550 Closing
+[Sat Oct 16 00:30:06 2021] 127.0.0.1:39556 Accepted
+[Sat Oct 16 00:30:06 2021] 127.0.0.1:39556 [404]: GET /index_files/d1f0f06b39df.asc - No such file or directory
+[Sat Oct 16 00:30:06 2021] 127.0.0.1:39556 Closing
+[Sat Oct 16 00:30:06 2021] 127.0.0.1:39562 Accepted
+[Sat Oct 16 00:30:06 2021] 127.0.0.1:39562 [404]: GET /index_files/b67d172d5783.asc - No such file or directory
+[Sat Oct 16 00:30:06 2021] 127.0.0.1:39562 Closing
+[Sat Oct 16 00:30:06 2021] 127.0.0.1:39566 Accepted
+[Sat Oct 16 00:30:06 2021] 127.0.0.1:39566 [404]: GET /index_files/96f2557117a2.asc - No such file or directory
+[Sat Oct 16 00:30:06 2021] 127.0.0.1:39566 Closing
+[Sat Oct 16 00:30:06 2021] 127.0.0.1:39570 Accepted
+[Sat Oct 16 00:30:06 2021] 127.0.0.1:39570 [404]: GET /index_files/f9e5c0ca0804.asc - No such file or directory
+[Sat Oct 16 00:30:06 2021] 127.0.0.1:39570 Closing
+[Sat Oct 16 00:30:06 2021] 127.0.0.1:39574 Accepted
+[Sat Oct 16 00:30:06 2021] 127.0.0.1:39574 [404]: GET /index_files/8e2c2a606042.download - No such file or directory
+[Sat Oct 16 00:30:06 2021] 127.0.0.1:39574 Closing
+[Sat Oct 16 00:30:47 2021] 127.0.0.1:39584 Accepted
+[Sat Oct 16 00:30:47 2021] 127.0.0.1:39588 Accepted
+[Sat Oct 16 00:30:47 2021] 127.0.0.1:39584 [302]: POST /login.php
+[Sat Oct 16 00:30:47 2021] 127.0.0.1:39584 Closing
+[Sat Oct 16 00:30:50 2021] 127.0.0.1:39612 Accepted
+[Thu Oct 21 00:31:54 2021] PHP 7.4.3 Development Server (http://localhost:8080) started
+[Thu Oct 21 00:32:12 2021] 127.0.0.1:55028 Accepted
+[Thu Oct 21 00:32:12 2021] 127.0.0.1:55032 Accepted
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55028 [302]: GET /
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55028 Closing
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55032 [200]: GET /login.html
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55032 Closing
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55040 Accepted
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55044 Accepted
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55048 Accepted
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55052 Accepted
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55056 Accepted
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55040 [404]: GET /index_files/fbevents.js - No such file or directory
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55040 Closing
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55044 [404]: GET /eventcheck.js - No such file or directory
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55044 Closing
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55048 [200]: GET /index_files/b67d172d5783.js.download
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55060 Accepted
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55052 [404]: GET /index_files/sdk.asc - No such file or directory
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55056 [404]: GET /index_files/b67d172d5783.asc - No such file or directory
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55048 Closing
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55052 Closing
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55056 Closing
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55064 Accepted
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55068 Accepted
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55060 [200]: GET /index_files/629d23a3c7b2.jpg
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55060 Closing
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55064 [200]: GET /index_files/2d9d7248af43.jpg
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55074 Accepted
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55064 Closing
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55068 [200]: GET /index_files/001bc33056c1.jpg
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55078 Accepted
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55074 [200]: GET /index_files/f5ae123ab1e2.jpg
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55082 Accepted
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55086 Accepted
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55078 [200]: GET /index_files/4b70f6fae447.png
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55068 Closing
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55082 [200]: GET /index_files/f06b908907d5.png
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55074 Closing
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55086 [200]: GET /index_files/f55c258e826e.png
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55078 Closing
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55082 Closing
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55086 Closing
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55090 Accepted
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55094 Accepted
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55098 Accepted
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55090 [404]: GET /index_files/d1f0f06b39df.asc - No such file or directory
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55090 Closing
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55094 [404]: GET /index_files/96f2557117a2.asc - No such file or directory
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55094 Closing
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55102 Accepted
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55098 [404]: GET /index_files/f9e5c0ca0804.asc - No such file or directory
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55098 Closing
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55102 [404]: GET /index_files/8e2c2a606042.download - No such file or directory
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55102 Closing
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55108 Accepted
+[Thu Oct 21 00:32:13 2021] 127.0.0.1:55112 Accepted
+[Thu Oct 21 00:32:14 2021] 127.0.0.1:55108 [404]: GET /index_files/d1f0f06b39df.asc - No such file or directory
+[Thu Oct 21 00:32:14 2021] 127.0.0.1:55108 Closing
+[Thu Oct 21 00:32:14 2021] 127.0.0.1:55112 [200]: GET /index_files/fb48443ec9d3.png
+[Thu Oct 21 00:32:14 2021] 127.0.0.1:55112 Closing
+[Thu Oct 21 00:32:16 2021] 127.0.0.1:55122 Accepted
+[Thu Oct 21 00:32:16 2021] 127.0.0.1:55122 [404]: GET /index_files/b67d172d5783.asc - No such file or directory
+[Thu Oct 21 00:32:16 2021] 127.0.0.1:55122 Closing
+[Thu Oct 21 00:32:16 2021] 127.0.0.1:55126 Accepted
+[Thu Oct 21 00:32:16 2021] 127.0.0.1:55126 [404]: GET /index_files/96f2557117a2.asc - No such file or directory
+[Thu Oct 21 00:32:16 2021] 127.0.0.1:55126 Closing
+[Thu Oct 21 00:32:16 2021] 127.0.0.1:55130 Accepted
+[Thu Oct 21 00:32:16 2021] 127.0.0.1:55130 [404]: GET /index_files/f9e5c0ca0804.asc - No such file or directory
+[Thu Oct 21 00:32:16 2021] 127.0.0.1:55130 Closing
+[Thu Oct 21 00:32:16 2021] 127.0.0.1:55134 Accepted
+[Thu Oct 21 00:32:16 2021] 127.0.0.1:55134 [404]: GET /index_files/8e2c2a606042.download - No such file or directory
+[Thu Oct 21 00:32:16 2021] 127.0.0.1:55134 Closing
+[Thu Oct 21 00:32:49 2021] 127.0.0.1:55152 Accepted
+[Thu Oct 21 00:32:49 2021] 127.0.0.1:55156 Accepted
+[Thu Oct 21 00:32:49 2021] 127.0.0.1:55152 [302]: POST /login.php
+[Thu Oct 21 00:32:49 2021] 127.0.0.1:55152 Closing
+[Thu Oct 21 00:46:24 2021] PHP 7.4.3 Development Server (http://localhost:8080) started
+[Thu Oct 21 00:46:28 2021] 127.0.0.1:55312 Accepted
+[Thu Oct 21 00:46:28 2021] 127.0.0.1:55316 Accepted
+[Thu Oct 21 00:46:28 2021] 127.0.0.1:55312 [302]: GET /
+[Thu Oct 21 00:46:28 2021] 127.0.0.1:55312 Closing
+[Thu Oct 21 00:46:28 2021] 127.0.0.1:55316 [200]: GET /login.html
+[Thu Oct 21 00:46:28 2021] 127.0.0.1:55316 Closing
+[Thu Oct 21 00:46:28 2021] 127.0.0.1:55324 Accepted
+[Thu Oct 21 00:46:28 2021] 127.0.0.1:55324 [404]: GET /index_files/fbevents.js - No such file or directory
+[Thu Oct 21 00:46:28 2021] 127.0.0.1:55324 Closing
+[Thu Oct 21 00:46:28 2021] 127.0.0.1:55328 Accepted
+[Thu Oct 21 00:46:28 2021] 127.0.0.1:55328 [404]: GET /eventcheck.js - No such file or directory
+[Thu Oct 21 00:46:28 2021] 127.0.0.1:55328 Closing
+[Thu Oct 21 00:46:28 2021] 127.0.0.1:55332 Accepted
+[Thu Oct 21 00:46:28 2021] 127.0.0.1:55332 [200]: GET /index_files/b67d172d5783.js.download
+[Thu Oct 21 00:46:28 2021] 127.0.0.1:55332 Closing
+[Thu Oct 21 00:46:28 2021] 127.0.0.1:55338 Accepted
+[Thu Oct 21 00:46:28 2021] 127.0.0.1:55338 [404]: GET /index_files/sdk.asc - No such file or directory
+[Thu Oct 21 00:46:28 2021] 127.0.0.1:55338 Closing
+[Thu Oct 21 00:46:29 2021] 127.0.0.1:55342 Accepted
+[Thu Oct 21 00:46:29 2021] 127.0.0.1:55342 [404]: GET /index_files/d1f0f06b39df.asc - No such file or directory
+[Thu Oct 21 00:46:29 2021] 127.0.0.1:55342 Closing
+[Thu Oct 21 00:46:29 2021] 127.0.0.1:55346 Accepted
+[Thu Oct 21 00:46:29 2021] 127.0.0.1:55350 Accepted
+[Thu Oct 21 00:46:29 2021] 127.0.0.1:55354 Accepted
+[Thu Oct 21 00:46:29 2021] 127.0.0.1:55358 Accepted
+[Thu Oct 21 00:46:29 2021] 127.0.0.1:55346 [404]: GET /index_files/96f2557117a2.asc - No such file or directory
+[Thu Oct 21 00:46:29 2021] 127.0.0.1:55346 Closing
+[Thu Oct 21 00:46:29 2021] 127.0.0.1:55350 [404]: GET /index_files/f9e5c0ca0804.asc - No such file or directory
+[Thu Oct 21 00:46:29 2021] 127.0.0.1:55350 Closing
+[Thu Oct 21 00:46:29 2021] 127.0.0.1:55354 [404]: GET /index_files/8e2c2a606042.download - No such file or directory
+[Thu Oct 21 00:46:29 2021] 127.0.0.1:55354 Closing
+[Thu Oct 21 00:46:29 2021] 127.0.0.1:55358 [404]: GET /index_files/b67d172d5783.asc - No such file or directory
+[Thu Oct 21 00:46:29 2021] 127.0.0.1:55358 Closing
+[Thu Oct 21 00:46:29 2021] 127.0.0.1:55362 Accepted
+[Thu Oct 21 00:46:29 2021] 127.0.0.1:55366 Accepted
+[Thu Oct 21 00:46:29 2021] 127.0.0.1:55370 Accepted
+[Thu Oct 21 00:46:29 2021] 127.0.0.1:55362 [200]: GET /index_files/629d23a3c7b2.jpg
+[Thu Oct 21 00:46:29 2021] 127.0.0.1:55366 [200]: GET /index_files/2d9d7248af43.jpg
+[Thu Oct 21 00:46:29 2021] 127.0.0.1:55362 Closing
+[Thu Oct 21 00:46:29 2021] 127.0.0.1:55366 Closing
+[Thu Oct 21 00:46:29 2021] 127.0.0.1:55374 Accepted
+[Thu Oct 21 00:46:29 2021] 127.0.0.1:55370 [200]: GET /index_files/001bc33056c1.jpg
+[Thu Oct 21 00:46:29 2021] 127.0.0.1:55370 Closing
+[Thu Oct 21 00:46:29 2021] 127.0.0.1:55378 Accepted
+[Thu Oct 21 00:46:29 2021] 127.0.0.1:55374 [200]: GET /index_files/f5ae123ab1e2.jpg
+[Thu Oct 21 00:46:29 2021] 127.0.0.1:55374 Closing
+[Thu Oct 21 00:46:29 2021] 127.0.0.1:55378 [200]: GET /index_files/4b70f6fae447.png
+[Thu Oct 21 00:46:29 2021] 127.0.0.1:55378 Closing
+[Thu Oct 21 00:46:29 2021] 127.0.0.1:55382 Accepted
+[Thu Oct 21 00:46:29 2021] 127.0.0.1:55382 [200]: GET /index_files/f06b908907d5.png
+[Thu Oct 21 00:46:29 2021] 127.0.0.1:55382 Closing
+[Thu Oct 21 00:46:29 2021] 127.0.0.1:55386 Accepted
+[Thu Oct 21 00:46:29 2021] 127.0.0.1:55386 [200]: GET /index_files/fb48443ec9d3.png
+[Thu Oct 21 00:46:29 2021] 127.0.0.1:55386 Closing
+[Thu Oct 21 00:46:29 2021] 127.0.0.1:55390 Accepted
+[Thu Oct 21 00:46:29 2021] 127.0.0.1:55390 [200]: GET /index_files/f55c258e826e.png
+[Thu Oct 21 00:46:29 2021] 127.0.0.1:55390 Closing
+[Thu Oct 21 00:46:30 2021] 127.0.0.1:55394 Accepted
+[Thu Oct 21 00:46:30 2021] 127.0.0.1:55394 [404]: GET /index_files/d1f0f06b39df.asc - No such file or directory
+[Thu Oct 21 00:46:30 2021] 127.0.0.1:55394 Closing
+[Thu Oct 21 00:46:30 2021] 127.0.0.1:55398 Accepted
+[Thu Oct 21 00:46:30 2021] 127.0.0.1:55398 [404]: GET /index_files/b67d172d5783.asc - No such file or directory
+[Thu Oct 21 00:46:30 2021] 127.0.0.1:55398 Closing
+[Thu Oct 21 00:46:30 2021] 127.0.0.1:55402 Accepted
+[Thu Oct 21 00:46:30 2021] 127.0.0.1:55402 [404]: GET /index_files/96f2557117a2.asc - No such file or directory
+[Thu Oct 21 00:46:30 2021] 127.0.0.1:55402 Closing
+[Thu Oct 21 00:46:30 2021] 127.0.0.1:55406 Accepted
+[Thu Oct 21 00:46:30 2021] 127.0.0.1:55406 [404]: GET /index_files/f9e5c0ca0804.asc - No such file or directory
+[Thu Oct 21 00:46:30 2021] 127.0.0.1:55406 Closing
+[Thu Oct 21 00:46:30 2021] 127.0.0.1:55410 Accepted
+[Thu Oct 21 00:46:30 2021] 127.0.0.1:55410 [404]: GET /index_files/8e2c2a606042.download - No such file or directory
+[Thu Oct 21 00:46:30 2021] 127.0.0.1:55410 Closing
+[Thu Oct 21 00:47:00 2021] 127.0.0.1:55416 Accepted
+[Thu Oct 21 00:47:00 2021] 127.0.0.1:55420 Accepted
+[Thu Oct 21 00:47:00 2021] 127.0.0.1:55416 [302]: POST /login.php
+[Thu Oct 21 00:47:00 2021] 127.0.0.1:55416 Closing
+[Thu Oct 21 00:51:00 2021] PHP 7.4.3 Development Server (http://localhost:8080) started
+[Thu Oct 21 00:51:44 2021] 127.0.0.1:55554 Accepted
+[Thu Oct 21 00:51:44 2021] 127.0.0.1:55554 [302]: GET /
+[Thu Oct 21 00:51:44 2021] 127.0.0.1:55554 Closing
+[Thu Oct 21 00:51:45 2021] 127.0.0.1:55556 Accepted
+[Thu Oct 21 00:51:45 2021] 127.0.0.1:55556 [200]: GET /login.html
+[Thu Oct 21 00:51:45 2021] 127.0.0.1:55556 Closing
+[Thu Oct 21 00:51:45 2021] 127.0.0.1:55558 Accepted
+[Thu Oct 21 00:51:45 2021] 127.0.0.1:55558 [404]: GET /index_files/fbevents.js - No such file or directory
+[Thu Oct 21 00:51:45 2021] 127.0.0.1:55558 Closing
+[Thu Oct 21 00:51:45 2021] 127.0.0.1:55560 Accepted
+[Thu Oct 21 00:51:45 2021] 127.0.0.1:55562 Accepted
+[Thu Oct 21 00:51:45 2021] 127.0.0.1:55560 [404]: GET /eventcheck.js - No such file or directory
+[Thu Oct 21 00:51:45 2021] 127.0.0.1:55560 Closing
+[Thu Oct 21 00:51:45 2021] 127.0.0.1:55564 Accepted
+[Thu Oct 21 00:51:45 2021] 127.0.0.1:55564 [404]: GET /index_files/sdk.asc - No such file or directory
+[Thu Oct 21 00:51:45 2021] 127.0.0.1:55562 [200]: GET /index_files/b67d172d5783.js.download
+[Thu Oct 21 00:51:45 2021] 127.0.0.1:55564 Closing
+[Thu Oct 21 00:51:45 2021] 127.0.0.1:55562 Closing
+[Thu Oct 21 00:51:46 2021] 127.0.0.1:55566 Accepted
+[Thu Oct 21 00:51:46 2021] 127.0.0.1:55566 [404]: GET /index_files/d1f0f06b39df.asc - No such file or directory
+[Thu Oct 21 00:51:46 2021] 127.0.0.1:55566 Closing
+[Thu Oct 21 00:51:46 2021] 127.0.0.1:55568 Accepted
+[Thu Oct 21 00:51:46 2021] 127.0.0.1:55570 Accepted
+[Thu Oct 21 00:51:46 2021] 127.0.0.1:55572 Accepted
+[Thu Oct 21 00:51:46 2021] 127.0.0.1:55568 [404]: GET /index_files/96f2557117a2.asc - No such file or directory
+[Thu Oct 21 00:51:46 2021] 127.0.0.1:55568 Closing
+[Thu Oct 21 00:51:46 2021] 127.0.0.1:55572 [404]: GET /index_files/f9e5c0ca0804.asc - No such file or directory
+[Thu Oct 21 00:51:46 2021] 127.0.0.1:55572 Closing
+[Thu Oct 21 00:51:46 2021] 127.0.0.1:55574 Accepted
+[Thu Oct 21 00:51:46 2021] 127.0.0.1:55570 [404]: GET /index_files/8e2c2a606042.download - No such file or directory
+[Thu Oct 21 00:51:46 2021] 127.0.0.1:55576 Accepted
+[Thu Oct 21 00:51:46 2021] 127.0.0.1:55570 Closing
+[Thu Oct 21 00:51:46 2021] 127.0.0.1:55576 [200]: GET /index_files/629d23a3c7b2.jpg
+[Thu Oct 21 00:51:46 2021] 127.0.0.1:55576 Closing
+[Thu Oct 21 00:51:46 2021] 127.0.0.1:55574 [404]: GET /index_files/b67d172d5783.asc - No such file or directory
+[Thu Oct 21 00:51:46 2021] 127.0.0.1:55574 Closing
+[Thu Oct 21 00:51:46 2021] 127.0.0.1:55578 Accepted
+[Thu Oct 21 00:51:46 2021] 127.0.0.1:55580 Accepted
+[Thu Oct 21 00:51:46 2021] 127.0.0.1:55578 [200]: GET /index_files/f5ae123ab1e2.jpg
+[Thu Oct 21 00:51:46 2021] 127.0.0.1:55580 [200]: GET /index_files/2d9d7248af43.jpg
+[Thu Oct 21 00:51:46 2021] 127.0.0.1:55578 Closing
+[Thu Oct 21 00:51:46 2021] 127.0.0.1:55580 Closing
+[Thu Oct 21 00:51:46 2021] 127.0.0.1:55582 Accepted
+[Thu Oct 21 00:51:46 2021] 127.0.0.1:55584 Accepted
+[Thu Oct 21 00:51:46 2021] 127.0.0.1:55582 [200]: GET /index_files/f06b908907d5.png
+[Thu Oct 21 00:51:46 2021] 127.0.0.1:55584 [200]: GET /index_files/001bc33056c1.jpg
+[Thu Oct 21 00:51:46 2021] 127.0.0.1:55582 Closing
+[Thu Oct 21 00:51:46 2021] 127.0.0.1:55584 Closing
+[Thu Oct 21 00:51:46 2021] 127.0.0.1:55586 Accepted
+[Thu Oct 21 00:51:46 2021] 127.0.0.1:55588 Accepted
+[Thu Oct 21 00:51:46 2021] 127.0.0.1:55586 [200]: GET /index_files/4b70f6fae447.png
+[Thu Oct 21 00:51:46 2021] 127.0.0.1:55590 Accepted
+[Thu Oct 21 00:51:46 2021] 127.0.0.1:55588 [200]: GET /index_files/f55c258e826e.png
+[Thu Oct 21 00:51:46 2021] 127.0.0.1:55590 [200]: GET /index_files/fb48443ec9d3.png
+[Thu Oct 21 00:51:46 2021] 127.0.0.1:55586 Closing
+[Thu Oct 21 00:51:46 2021] 127.0.0.1:55588 Closing
+[Thu Oct 21 00:51:46 2021] 127.0.0.1:55590 Closing
+[Thu Oct 21 00:52:00 2021] 127.0.0.1:55604 Accepted
+[Thu Oct 21 00:52:00 2021] 127.0.0.1:55604 [404]: GET /index_files/f82c2ede4ccb.png - No such file or directory
+[Thu Oct 21 00:52:00 2021] 127.0.0.1:55604 Closing
+[Thu Oct 21 00:52:18 2021] 127.0.0.1:55606 Accepted
+[Thu Oct 21 00:52:18 2021] 127.0.0.1:55606 [200]: GET /login.html
+[Thu Oct 21 00:52:18 2021] 127.0.0.1:55606 Closing
+[Thu Oct 21 00:53:35 2021] 127.0.0.1:55614 Accepted
+[Thu Oct 21 00:53:35 2021] 127.0.0.1:55614 [302]: POST /login.php
+[Thu Oct 21 00:53:35 2021] 127.0.0.1:55614 Closing
+[Thu Oct 21 00:54:33 2021] 127.0.0.1:55678 Accepted
+[Thu Oct 21 00:54:33 2021] 127.0.0.1:55678 [200]: POST /login.html
+[Thu Oct 21 00:54:33 2021] 127.0.0.1:55678 Closing
+[Thu Oct 21 00:54:34 2021] 127.0.0.1:55682 Accepted
+[Thu Oct 21 00:54:34 2021] 127.0.0.1:55680 Accepted
+[Thu Oct 21 00:54:34 2021] 127.0.0.1:55682 [404]: POST /eventcheck.js - No such file or directory
+[Thu Oct 21 00:54:34 2021] 127.0.0.1:55680 [404]: POST /index_files/fbevents.js - No such file or directory
+[Thu Oct 21 00:54:34 2021] 127.0.0.1:55682 Closing
+[Thu Oct 21 00:54:34 2021] 127.0.0.1:55680 Closing
+[Thu Oct 21 00:54:34 2021] 127.0.0.1:55686 Accepted
+[Thu Oct 21 00:54:34 2021] 127.0.0.1:55688 Accepted
+[Thu Oct 21 00:54:34 2021] 127.0.0.1:55688 [404]: POST /index_files/sdk.asc - No such file or directory
+[Thu Oct 21 00:54:34 2021] 127.0.0.1:55688 Closing
+[Thu Oct 21 00:54:34 2021] 127.0.0.1:55686 [200]: POST /index_files/b67d172d5783.js.download
+[Thu Oct 21 00:54:34 2021] 127.0.0.1:55686 Closing
+[Thu Oct 21 00:54:35 2021] 127.0.0.1:55690 Accepted
+[Thu Oct 21 00:54:35 2021] 127.0.0.1:55690 [404]: POST /index_files/d1f0f06b39df.asc - No such file or directory
+[Thu Oct 21 00:54:35 2021] 127.0.0.1:55690 Closing
+[Thu Oct 21 00:54:35 2021] 127.0.0.1:55692 Accepted
+[Thu Oct 21 00:54:35 2021] 127.0.0.1:55692 [404]: POST /index_files/96f2557117a2.asc - No such file or directory
+[Thu Oct 21 00:54:35 2021] 127.0.0.1:55692 Closing
+[Thu Oct 21 00:54:35 2021] 127.0.0.1:55694 Accepted
+[Thu Oct 21 00:54:35 2021] 127.0.0.1:55694 [404]: POST /index_files/f9e5c0ca0804.asc - No such file or directory
+[Thu Oct 21 00:54:35 2021] 127.0.0.1:55694 Closing
+[Thu Oct 21 00:54:35 2021] 127.0.0.1:55696 Accepted
+[Thu Oct 21 00:54:35 2021] 127.0.0.1:55698 Accepted
+[Thu Oct 21 00:54:35 2021] 127.0.0.1:55696 [404]: POST /index_files/8e2c2a606042.download - No such file or directory
+[Thu Oct 21 00:54:35 2021] 127.0.0.1:55696 Closing
+[Thu Oct 21 00:54:35 2021] 127.0.0.1:55698 [404]: POST /index_files/b67d172d5783.asc - No such file or directory
+[Thu Oct 21 00:54:35 2021] 127.0.0.1:55698 Closing
+[Thu Oct 21 00:54:35 2021] 127.0.0.1:55700 Accepted
+[Thu Oct 21 00:54:35 2021] 127.0.0.1:55702 Accepted
+[Thu Oct 21 00:54:35 2021] 127.0.0.1:55704 Accepted
+[Thu Oct 21 00:54:35 2021] 127.0.0.1:55706 Accepted
+[Thu Oct 21 00:54:35 2021] 127.0.0.1:55708 Accepted
+[Thu Oct 21 00:54:35 2021] 127.0.0.1:55704 [200]: POST /index_files/2d9d7248af43.jpg
+[Thu Oct 21 00:54:35 2021] 127.0.0.1:55706 [200]: POST /index_files/4b70f6fae447.png
+[Thu Oct 21 00:54:35 2021] 127.0.0.1:55710 Accepted
+[Thu Oct 21 00:54:35 2021] 127.0.0.1:55702 [200]: POST /index_files/f5ae123ab1e2.jpg
+[Thu Oct 21 00:54:35 2021] 127.0.0.1:55708 [200]: POST /index_files/629d23a3c7b2.jpg
+[Thu Oct 21 00:54:35 2021] 127.0.0.1:55704 Closing
+[Thu Oct 21 00:54:35 2021] 127.0.0.1:55706 Closing
+[Thu Oct 21 00:54:35 2021] 127.0.0.1:55702 Closing
+[Thu Oct 21 00:54:35 2021] 127.0.0.1:55708 Closing
+[Thu Oct 21 00:54:35 2021] 127.0.0.1:55700 [200]: POST /index_files/001bc33056c1.jpg
+[Thu Oct 21 00:54:35 2021] 127.0.0.1:55700 Closing
+[Thu Oct 21 00:54:35 2021] 127.0.0.1:55710 [200]: POST /index_files/f06b908907d5.png
+[Thu Oct 21 00:54:35 2021] 127.0.0.1:55710 Closing
+[Thu Oct 21 00:54:35 2021] 127.0.0.1:55712 Accepted
+[Thu Oct 21 00:54:35 2021] 127.0.0.1:55714 Accepted
+[Thu Oct 21 00:54:35 2021] 127.0.0.1:55712 [200]: POST /index_files/fb48443ec9d3.png
+[Thu Oct 21 00:54:35 2021] 127.0.0.1:55714 [200]: POST /index_files/f55c258e826e.png
+[Thu Oct 21 00:54:35 2021] 127.0.0.1:55712 Closing
+[Thu Oct 21 00:54:35 2021] 127.0.0.1:55714 Closing
+[Thu Oct 21 00:55:03 2021] 127.0.0.1:55716 Accepted
+[Thu Oct 21 00:55:03 2021] 127.0.0.1:55716 [302]: POST /login.php
+[Thu Oct 21 00:55:03 2021] 127.0.0.1:55716 Closing
+[Thu Oct 21 01:11:27 2021] PHP 7.4.3 Development Server (http://localhost:8080) started
+[Thu Oct 21 01:12:06 2021] 127.0.0.1:55986 Accepted
+[Thu Oct 21 01:12:06 2021] 127.0.0.1:55986 [302]: GET /
+[Thu Oct 21 01:12:06 2021] 127.0.0.1:55986 Closing
+[Thu Oct 21 01:12:06 2021] 127.0.0.1:55988 Accepted
+[Thu Oct 21 01:12:06 2021] 127.0.0.1:55988 [200]: GET /login.html
+[Thu Oct 21 01:12:06 2021] 127.0.0.1:55988 Closing
+[Thu Oct 21 01:12:07 2021] 127.0.0.1:55992 Accepted
+[Thu Oct 21 01:12:07 2021] 127.0.0.1:55994 Accepted
+[Thu Oct 21 01:12:07 2021] 127.0.0.1:55996 Accepted
+[Thu Oct 21 01:12:07 2021] 127.0.0.1:55998 Accepted
+[Thu Oct 21 01:12:07 2021] 127.0.0.1:55992 [404]: GET /eventcheck.js - No such file or directory
+[Thu Oct 21 01:12:07 2021] 127.0.0.1:55992 Closing
+[Thu Oct 21 01:12:07 2021] 127.0.0.1:55994 [404]: GET /index_files/sdk.asc - No such file or directory
+[Thu Oct 21 01:12:07 2021] 127.0.0.1:55996 [200]: GET /index_files/b67d172d5783.js.download
+[Thu Oct 21 01:12:07 2021] 127.0.0.1:55998 [404]: GET /index_files/fbevents.js - No such file or directory
+[Thu Oct 21 01:12:07 2021] 127.0.0.1:55994 Closing
+[Thu Oct 21 01:12:07 2021] 127.0.0.1:55998 Closing
+[Thu Oct 21 01:12:07 2021] 127.0.0.1:55996 Closing
+[Thu Oct 21 01:12:08 2021] 127.0.0.1:56000 Accepted
+[Thu Oct 21 01:12:08 2021] 127.0.0.1:56000 [404]: GET /index_files/d1f0f06b39df.asc - No such file or directory
+[Thu Oct 21 01:12:08 2021] 127.0.0.1:56000 Closing
+[Thu Oct 21 01:12:08 2021] 127.0.0.1:56002 Accepted
+[Thu Oct 21 01:12:08 2021] 127.0.0.1:56002 [404]: GET /index_files/96f2557117a2.asc - No such file or directory
+[Thu Oct 21 01:12:08 2021] 127.0.0.1:56002 Closing
+[Thu Oct 21 01:12:08 2021] 127.0.0.1:56004 Accepted
+[Thu Oct 21 01:12:08 2021] 127.0.0.1:56006 Accepted
+[Thu Oct 21 01:12:08 2021] 127.0.0.1:56004 [404]: GET /index_files/f9e5c0ca0804.asc - No such file or directory
+[Thu Oct 21 01:12:08 2021] 127.0.0.1:56004 Closing
+[Thu Oct 21 01:12:08 2021] 127.0.0.1:56006 [404]: GET /index_files/8e2c2a606042.download - No such file or directory
+[Thu Oct 21 01:12:08 2021] 127.0.0.1:56006 Closing
+[Thu Oct 21 01:12:08 2021] 127.0.0.1:56008 Accepted
+[Thu Oct 21 01:12:08 2021] 127.0.0.1:56008 [404]: GET /index_files/b67d172d5783.asc - No such file or directory
+[Thu Oct 21 01:12:08 2021] 127.0.0.1:56008 Closing
+[Thu Oct 21 01:12:08 2021] 127.0.0.1:56010 Accepted
+[Thu Oct 21 01:12:08 2021] 127.0.0.1:56012 Accepted
+[Thu Oct 21 01:12:08 2021] 127.0.0.1:56010 [200]: GET /index_files/2d9d7248af43.jpg
+[Thu Oct 21 01:12:08 2021] 127.0.0.1:56010 Closing
+[Thu Oct 21 01:12:08 2021] 127.0.0.1:56014 Accepted
+[Thu Oct 21 01:12:08 2021] 127.0.0.1:56016 Accepted
+[Thu Oct 21 01:12:08 2021] 127.0.0.1:56018 Accepted
+[Thu Oct 21 01:12:08 2021] 127.0.0.1:56020 Accepted
+[Thu Oct 21 01:12:08 2021] 127.0.0.1:56022 Accepted
+[Thu Oct 21 01:12:08 2021] 127.0.0.1:56018 [200]: GET /index_files/001bc33056c1.jpg
+[Thu Oct 21 01:12:08 2021] 127.0.0.1:56018 Closing
+[Thu Oct 21 01:12:08 2021] 127.0.0.1:56024 Accepted
+[Thu Oct 21 01:12:08 2021] 127.0.0.1:56014 [200]: GET /index_files/629d23a3c7b2.jpg
+[Thu Oct 21 01:12:08 2021] 127.0.0.1:56012 [200]: GET /index_files/f5ae123ab1e2.jpg
+[Thu Oct 21 01:12:08 2021] 127.0.0.1:56016 [200]: GET /index_files/fb48443ec9d3.png
+[Thu Oct 21 01:12:08 2021] 127.0.0.1:56024 [200]: GET /index_files/4b70f6fae447.png
+[Thu Oct 21 01:12:08 2021] 127.0.0.1:56020 [200]: GET /index_files/f55c258e826e.png
+[Thu Oct 21 01:12:08 2021] 127.0.0.1:56022 [200]: GET /index_files/f06b908907d5.png
+[Thu Oct 21 01:12:08 2021] 127.0.0.1:56014 Closing
+[Thu Oct 21 01:12:08 2021] 127.0.0.1:56012 Closing
+[Thu Oct 21 01:12:08 2021] 127.0.0.1:56016 Closing
+[Thu Oct 21 01:12:08 2021] 127.0.0.1:56024 Closing
+[Thu Oct 21 01:12:08 2021] 127.0.0.1:56020 Closing
+[Thu Oct 21 01:12:08 2021] 127.0.0.1:56022 Closing
+[Thu Oct 21 01:12:11 2021] Failed to listen on localhost:8080 (reason: Address already in use)
+[Thu Oct 21 01:12:24 2021] 127.0.0.1:56030 Accepted
+[Thu Oct 21 01:12:24 2021] 127.0.0.1:56030 [302]: POST /login.php
+[Thu Oct 21 01:12:24 2021] 127.0.0.1:56030 Closing
+[Thu Oct 21 01:12:24 2021] 127.0.0.1:56032 Accepted
+[Thu Oct 21 01:12:24 2021] 127.0.0.1:56032 [302]: POST /login.php
+[Thu Oct 21 01:12:24 2021] 127.0.0.1:56032 Closing
+[Thu Oct 21 01:12:24 2021] 127.0.0.1:56034 Accepted
+[Thu Oct 21 01:12:24 2021] 127.0.0.1:56034 [302]: POST /login.php
+[Thu Oct 21 01:12:24 2021] 127.0.0.1:56034 Closing
+[Thu Oct 21 01:12:25 2021] 127.0.0.1:56036 Accepted
+[Thu Oct 21 01:12:25 2021] 127.0.0.1:56038 Accepted
+[Thu Oct 21 01:12:25 2021] 127.0.0.1:56036 [302]: POST /login.php
+[Thu Oct 21 01:12:25 2021] 127.0.0.1:56036 Closing
+[Thu Oct 21 01:12:25 2021] 127.0.0.1:56038 [302]: POST /login.php
+[Thu Oct 21 01:12:25 2021] 127.0.0.1:56038 Closing
+[Thu Oct 21 01:12:25 2021] 127.0.0.1:56040 Accepted
+[Thu Oct 21 01:12:25 2021] 127.0.0.1:56040 [302]: POST /login.php
+[Thu Oct 21 01:12:25 2021] 127.0.0.1:56040 Closing
+[Thu Oct 21 01:12:25 2021] 127.0.0.1:56042 Accepted
+[Thu Oct 21 01:12:25 2021] 127.0.0.1:56042 [302]: POST /login.php
+[Thu Oct 21 01:12:25 2021] 127.0.0.1:56042 Closing
+[Thu Oct 21 01:13:04 2021] 127.0.0.1:56100 Accepted
+[Thu Oct 21 01:13:04 2021] 127.0.0.1:56100 [302]: GET /
+[Thu Oct 21 01:13:04 2021] 127.0.0.1:56100 Closing
+[Thu Oct 21 01:13:04 2021] 127.0.0.1:56102 Accepted
+[Thu Oct 21 01:13:04 2021] 127.0.0.1:56102 [200]: GET /login.html
+[Thu Oct 21 01:13:04 2021] 127.0.0.1:56102 Closing
+[Thu Oct 21 01:13:05 2021] 127.0.0.1:56104 Accepted
+[Thu Oct 21 01:13:05 2021] 127.0.0.1:56104 [404]: GET /index_files/fbevents.js - No such file or directory
+[Thu Oct 21 01:13:05 2021] 127.0.0.1:56104 Closing
+[Thu Oct 21 01:13:05 2021] 127.0.0.1:56106 Accepted
+[Thu Oct 21 01:13:05 2021] 127.0.0.1:56108 Accepted
+[Thu Oct 21 01:13:05 2021] 127.0.0.1:56106 [404]: GET /eventcheck.js - No such file or directory
+[Thu Oct 21 01:13:05 2021] 127.0.0.1:56106 Closing
+[Thu Oct 21 01:13:05 2021] 127.0.0.1:56110 Accepted
+[Thu Oct 21 01:13:05 2021] 127.0.0.1:56108 [200]: GET /index_files/b67d172d5783.js.download
+[Thu Oct 21 01:13:05 2021] 127.0.0.1:56108 Closing
+[Thu Oct 21 01:13:05 2021] 127.0.0.1:56110 [404]: GET /index_files/sdk.asc - No such file or directory
+[Thu Oct 21 01:13:05 2021] 127.0.0.1:56110 Closing
+[Thu Oct 21 01:13:06 2021] 127.0.0.1:56112 Accepted
+[Thu Oct 21 01:13:06 2021] 127.0.0.1:56112 [404]: GET /index_files/d1f0f06b39df.asc - No such file or directory
+[Thu Oct 21 01:13:06 2021] 127.0.0.1:56112 Closing
+[Thu Oct 21 01:13:06 2021] 127.0.0.1:56114 Accepted
+[Thu Oct 21 01:13:06 2021] 127.0.0.1:56114 [404]: GET /index_files/96f2557117a2.asc - No such file or directory
+[Thu Oct 21 01:13:06 2021] 127.0.0.1:56114 Closing
+[Thu Oct 21 01:13:06 2021] 127.0.0.1:56116 Accepted
+[Thu Oct 21 01:13:06 2021] 127.0.0.1:56118 Accepted
+[Thu Oct 21 01:13:06 2021] 127.0.0.1:56116 [404]: GET /index_files/f9e5c0ca0804.asc - No such file or directory
+[Thu Oct 21 01:13:06 2021] 127.0.0.1:56120 Accepted
+[Thu Oct 21 01:13:06 2021] 127.0.0.1:56116 Closing
+[Thu Oct 21 01:13:06 2021] 127.0.0.1:56118 [404]: GET /index_files/8e2c2a606042.download - No such file or directory
+[Thu Oct 21 01:13:06 2021] 127.0.0.1:56122 Accepted
+[Thu Oct 21 01:13:06 2021] 127.0.0.1:56118 Closing
+[Thu Oct 21 01:13:06 2021] 127.0.0.1:56120 [404]: GET /index_files/b67d172d5783.asc - No such file or directory
+[Thu Oct 21 01:13:06 2021] 127.0.0.1:56122 [200]: GET /index_files/629d23a3c7b2.jpg
+[Thu Oct 21 01:13:06 2021] 127.0.0.1:56120 Closing
+[Thu Oct 21 01:13:06 2021] 127.0.0.1:56122 Closing
+[Thu Oct 21 01:13:06 2021] 127.0.0.1:56124 Accepted
+[Thu Oct 21 01:13:06 2021] 127.0.0.1:56126 Accepted
+[Thu Oct 21 01:13:06 2021] 127.0.0.1:56124 [200]: GET /index_files/2d9d7248af43.jpg
+[Thu Oct 21 01:13:06 2021] 127.0.0.1:56128 Accepted
+[Thu Oct 21 01:13:06 2021] 127.0.0.1:56126 [200]: GET /index_files/001bc33056c1.jpg
+[Thu Oct 21 01:13:06 2021] 127.0.0.1:56130 Accepted
+[Thu Oct 21 01:13:06 2021] 127.0.0.1:56132 Accepted
+[Thu Oct 21 01:13:06 2021] 127.0.0.1:56124 Closing
+[Thu Oct 21 01:13:06 2021] 127.0.0.1:56130 [200]: GET /index_files/f06b908907d5.png
+[Thu Oct 21 01:13:06 2021] 127.0.0.1:56134 Accepted
+[Thu Oct 21 01:13:06 2021] 127.0.0.1:56126 Closing
+[Thu Oct 21 01:13:06 2021] 127.0.0.1:56132 [200]: GET /index_files/4b70f6fae447.png
+[Thu Oct 21 01:13:06 2021] 127.0.0.1:56134 [200]: GET /index_files/f55c258e826e.png
+[Thu Oct 21 01:13:06 2021] 127.0.0.1:56130 Closing
+[Thu Oct 21 01:13:06 2021] 127.0.0.1:56132 Closing
+[Thu Oct 21 01:13:06 2021] 127.0.0.1:56134 Closing
+[Thu Oct 21 01:13:06 2021] 127.0.0.1:56128 [200]: GET /index_files/f5ae123ab1e2.jpg
+[Thu Oct 21 01:13:06 2021] 127.0.0.1:56128 Closing
+[Thu Oct 21 01:13:06 2021] 127.0.0.1:56136 Accepted
+[Thu Oct 21 01:13:06 2021] 127.0.0.1:56136 [200]: GET /index_files/fb48443ec9d3.png
+[Thu Oct 21 01:13:06 2021] 127.0.0.1:56136 Closing
+[Thu Oct 21 01:15:31 2021] PHP 7.4.3 Development Server (http://localhost:8080) started
+[Thu Oct 21 01:15:35 2021] 127.0.0.1:56154 Accepted
+[Thu Oct 21 01:15:35 2021] 127.0.0.1:56154 [302]: GET /
+[Thu Oct 21 01:15:35 2021] 127.0.0.1:56154 Closing
+[Thu Oct 21 01:15:35 2021] 127.0.0.1:56156 Accepted
+[Thu Oct 21 01:15:35 2021] 127.0.0.1:56156 [200]: GET /login.html
+[Thu Oct 21 01:15:35 2021] 127.0.0.1:56156 Closing
+[Thu Oct 21 01:15:36 2021] 127.0.0.1:56160 Accepted
+[Thu Oct 21 01:15:36 2021] 127.0.0.1:56162 Accepted
+[Thu Oct 21 01:15:36 2021] 127.0.0.1:56160 [404]: GET /eventcheck.js - No such file or directory
+[Thu Oct 21 01:15:36 2021] 127.0.0.1:56160 Closing
+[Thu Oct 21 01:15:36 2021] 127.0.0.1:56162 [404]: GET /index_files/fbevents.js - No such file or directory
+[Thu Oct 21 01:15:36 2021] 127.0.0.1:56162 Closing
+[Thu Oct 21 01:15:36 2021] 127.0.0.1:56164 Accepted
+[Thu Oct 21 01:15:36 2021] 127.0.0.1:56166 Accepted
+[Thu Oct 21 01:15:36 2021] 127.0.0.1:56164 [200]: GET /index_files/b67d172d5783.js.download
+[Thu Oct 21 01:15:36 2021] 127.0.0.1:56164 Closing
+[Thu Oct 21 01:15:36 2021] 127.0.0.1:56166 [404]: GET /index_files/sdk.asc - No such file or directory
+[Thu Oct 21 01:15:36 2021] 127.0.0.1:56166 Closing
+[Thu Oct 21 01:15:37 2021] 127.0.0.1:56168 Accepted
+[Thu Oct 21 01:15:37 2021] 127.0.0.1:56168 [404]: GET /index_files/d1f0f06b39df.asc - No such file or directory
+[Thu Oct 21 01:15:37 2021] 127.0.0.1:56168 Closing
+[Thu Oct 21 01:15:37 2021] 127.0.0.1:56170 Accepted
+[Thu Oct 21 01:15:37 2021] 127.0.0.1:56170 [404]: GET /index_files/96f2557117a2.asc - No such file or directory
+[Thu Oct 21 01:15:37 2021] 127.0.0.1:56170 Closing
+[Thu Oct 21 01:15:37 2021] 127.0.0.1:56172 Accepted
+[Thu Oct 21 01:15:37 2021] 127.0.0.1:56172 [404]: GET /index_files/f9e5c0ca0804.asc - No such file or directory
+[Thu Oct 21 01:15:37 2021] 127.0.0.1:56172 Closing
+[Thu Oct 21 01:15:37 2021] 127.0.0.1:56174 Accepted
+[Thu Oct 21 01:15:37 2021] 127.0.0.1:56176 Accepted
+[Thu Oct 21 01:15:37 2021] 127.0.0.1:56178 Accepted
+[Thu Oct 21 01:15:37 2021] 127.0.0.1:56180 Accepted
+[Thu Oct 21 01:15:37 2021] 127.0.0.1:56180 [200]: GET /index_files/2d9d7248af43.jpg
+[Thu Oct 21 01:15:37 2021] 127.0.0.1:56180 Closing
+[Thu Oct 21 01:15:37 2021] 127.0.0.1:56174 [404]: GET /index_files/b67d172d5783.asc - No such file or directory
+[Thu Oct 21 01:15:37 2021] 127.0.0.1:56176 [404]: GET /index_files/8e2c2a606042.download - No such file or directory
+[Thu Oct 21 01:15:37 2021] 127.0.0.1:56174 Closing
+[Thu Oct 21 01:15:37 2021] 127.0.0.1:56176 Closing
+[Thu Oct 21 01:15:37 2021] 127.0.0.1:56182 Accepted
+[Thu Oct 21 01:15:37 2021] 127.0.0.1:56184 Accepted
+[Thu Oct 21 01:15:37 2021] 127.0.0.1:56186 Accepted
+[Thu Oct 21 01:15:37 2021] 127.0.0.1:56188 Accepted
+[Thu Oct 21 01:15:37 2021] 127.0.0.1:56190 Accepted
+[Thu Oct 21 01:15:37 2021] 127.0.0.1:56190 [200]: GET /index_files/f55c258e826e.png
+[Thu Oct 21 01:15:37 2021] 127.0.0.1:56190 Closing
+[Thu Oct 21 01:15:37 2021] 127.0.0.1:56188 [200]: GET /index_files/4b70f6fae447.png
+[Thu Oct 21 01:15:37 2021] 127.0.0.1:56188 Closing
+[Thu Oct 21 01:15:37 2021] 127.0.0.1:56186 [200]: GET /index_files/f5ae123ab1e2.jpg
+[Thu Oct 21 01:15:37 2021] 127.0.0.1:56186 Closing
+[Thu Oct 21 01:15:37 2021] 127.0.0.1:56184 [200]: GET /index_files/f06b908907d5.png
+[Thu Oct 21 01:15:37 2021] 127.0.0.1:56184 Closing
+[Thu Oct 21 01:15:37 2021] 127.0.0.1:56178 [200]: GET /index_files/629d23a3c7b2.jpg
+[Thu Oct 21 01:15:37 2021] 127.0.0.1:56178 Closing
+[Thu Oct 21 01:15:37 2021] 127.0.0.1:56182 [200]: GET /index_files/001bc33056c1.jpg
+[Thu Oct 21 01:15:37 2021] 127.0.0.1:56182 Closing
+[Thu Oct 21 01:15:37 2021] 127.0.0.1:56192 Accepted
+[Thu Oct 21 01:15:37 2021] 127.0.0.1:56192 [200]: GET /index_files/fb48443ec9d3.png
+[Thu Oct 21 01:15:37 2021] 127.0.0.1:56192 Closing
+[Thu Oct 21 01:15:46 2021] 127.0.0.1:56196 Accepted
+[Thu Oct 21 01:15:46 2021] 127.0.0.1:56196 [302]: POST /login.php
+[Thu Oct 21 01:15:46 2021] 127.0.0.1:56196 Closing
+[Sun Oct 24 00:18:07 2021] Failed to listen on localhost:8080 (reason: Address already in use)
