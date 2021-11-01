@@ -2215,3 +2215,6 @@
 [Thu Oct 28 23:08:55 2021] 127.0.0.1:33386 Accepted
 [Thu Oct 28 23:08:55 2021] 127.0.0.1:33386 [200]: POST /a/bz?fb_dtsg=AQFajVxwFE174_A%3A0%3A0&jazoest=21411&lsd=AVoQK84dpJI&__dyn=0wzpaBwk8aU4ifDg9ppk2m3q12wAxu13w9y1DxW0Oohx60kO4o3Bw4Ewk9E4W0om0MU0D2US0se229w4NwqU3rw9O1Aw4vw8W0k-0jG3qaw4kw&__csr=&__req=3&__a=AYm32uwaBu-1Gr-Zjh8U486zlR6rEJYjZSpcxWjF-gwIi77YqWFBjNgTLq3cEYseVAQvCHUQWCeCn1WFewnabSatTM3xnoPdTd2pzw69tJtHdw&__user=0
 [Thu Oct 28 23:08:55 2021] 127.0.0.1:33386 Closing
+[Mon Nov  1 01:06:00 2021] PHP 7.4.3 Development Server (http://localhost:8080) started
+[Mon Nov  1 01:16:30 2021] Failed to listen on localhost:8080 (reason: Address already in use)
+[Mon Nov  1 01:18:49 2021] Failed to listen on localhost:8080 (reason: Address already in use)
