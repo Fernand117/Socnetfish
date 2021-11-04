@@ -1099,3 +1099,83 @@
 [Thu Oct 21 01:15:46 2021] 127.0.0.1:56196 [302]: POST /login.php
 [Thu Oct 21 01:15:46 2021] 127.0.0.1:56196 Closing
 [Sun Oct 24 00:18:07 2021] Failed to listen on localhost:8080 (reason: Address already in use)
+[Thu Nov  4 14:00:13 2021] PHP 7.4.3 Development Server (http://localhost:8080) started
+[Thu Nov  4 14:00:23 2021] 127.0.0.1:39718 Accepted
+[Thu Nov  4 14:00:23 2021] 127.0.0.1:39722 Accepted
+[Thu Nov  4 14:00:23 2021] 127.0.0.1:39718 [302]: GET /
+[Thu Nov  4 14:00:23 2021] 127.0.0.1:39718 Closing
+[Thu Nov  4 14:00:23 2021] 127.0.0.1:39722 [200]: GET /login.html
+[Thu Nov  4 14:00:23 2021] 127.0.0.1:39722 Closing
+[Thu Nov  4 14:00:23 2021] 127.0.0.1:39726 Accepted
+[Thu Nov  4 14:00:23 2021] 127.0.0.1:39726 [404]: GET /index_files/fbevents.js - No such file or directory
+[Thu Nov  4 14:00:23 2021] 127.0.0.1:39726 Closing
+[Thu Nov  4 14:00:23 2021] 127.0.0.1:39732 Accepted
+[Thu Nov  4 14:00:23 2021] 127.0.0.1:39732 [404]: GET /eventcheck.js - No such file or directory
+[Thu Nov  4 14:00:23 2021] 127.0.0.1:39732 Closing
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39736 Accepted
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39736 [200]: GET /index_files/b67d172d5783.js.download
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39736 Closing
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39740 Accepted
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39740 [404]: GET /index_files/sdk.asc - No such file or directory
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39740 Closing
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39744 Accepted
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39744 [404]: GET /index_files/d1f0f06b39df.asc - No such file or directory
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39744 Closing
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39748 Accepted
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39748 [404]: GET /index_files/96f2557117a2.asc - No such file or directory
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39748 Closing
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39752 Accepted
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39752 [404]: GET /index_files/f9e5c0ca0804.asc - No such file or directory
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39752 Closing
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39756 Accepted
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39756 [404]: GET /index_files/8e2c2a606042.download - No such file or directory
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39756 Closing
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39760 Accepted
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39760 [404]: GET /index_files/b67d172d5783.asc - No such file or directory
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39760 Closing
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39764 Accepted
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39764 [200]: GET /index_files/629d23a3c7b2.jpg
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39764 Closing
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39768 Accepted
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39768 [200]: GET /index_files/2d9d7248af43.jpg
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39768 Closing
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39772 Accepted
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39772 [200]: GET /index_files/001bc33056c1.jpg
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39776 Accepted
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39772 Closing
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39780 Accepted
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39776 [200]: GET /index_files/f5ae123ab1e2.jpg
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39780 [200]: GET /index_files/4b70f6fae447.png
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39776 Closing
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39780 Closing
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39784 Accepted
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39784 [200]: GET /index_files/f06b908907d5.png
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39784 Closing
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39788 Accepted
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39788 [200]: GET /index_files/f55c258e826e.png
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39788 Closing
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39792 Accepted
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39792 [404]: GET /index_files/f82c2ede4ccb.png - No such file or directory
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39792 Closing
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39796 Accepted
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39796 [200]: GET /index_files/fb48443ec9d3.png
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39796 Closing
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39800 Accepted
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39800 [404]: GET /index_files/d1f0f06b39df.asc - No such file or directory
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39800 Closing
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39804 Accepted
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39804 [404]: GET /index_files/b67d172d5783.asc - No such file or directory
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39804 Closing
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39808 Accepted
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39808 [404]: GET /index_files/96f2557117a2.asc - No such file or directory
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39808 Closing
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39812 Accepted
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39812 [404]: GET /index_files/f9e5c0ca0804.asc - No such file or directory
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39812 Closing
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39816 Accepted
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39816 [404]: GET /index_files/8e2c2a606042.download - No such file or directory
+[Thu Nov  4 14:00:24 2021] 127.0.0.1:39816 Closing
+[Thu Nov  4 14:00:44 2021] 127.0.0.1:39824 Accepted
+[Thu Nov  4 14:00:44 2021] 127.0.0.1:39828 Accepted
+[Thu Nov  4 14:00:44 2021] 127.0.0.1:39824 [302]: POST /login.php
+[Thu Nov  4 14:00:44 2021] 127.0.0.1:39824 Closing
