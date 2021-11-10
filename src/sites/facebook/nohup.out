@@ -2221,3 +2221,75 @@
 [Mon Nov  1 01:29:08 2021] Failed to listen on localhost:8080 (reason: Address already in use)
 [Tue Nov  2 19:34:08 2021] PHP 7.4.3 Development Server (http://localhost:8080) started
 [Thu Nov  4 14:21:30 2021] PHP 7.4.3 Development Server (http://localhost:8080) started
+[Fri Nov  5 13:13:56 2021] PHP 7.4.3 Development Server (http://localhost:8080) started
+[Fri Nov  5 13:14:04 2021] 127.0.0.1:38404 Accepted
+[Fri Nov  5 13:14:04 2021] 127.0.0.1:38408 Accepted
+[Fri Nov  5 13:14:04 2021] 127.0.0.1:38404 [200]: GET /
+[Fri Nov  5 13:14:04 2021] 127.0.0.1:38404 Closing
+[Fri Nov  5 13:14:04 2021] 127.0.0.1:38412 Accepted
+[Fri Nov  5 13:14:04 2021] 127.0.0.1:38408 [200]: GET /login.html
+[Fri Nov  5 13:14:04 2021] 127.0.0.1:38408 Closing
+[Fri Nov  5 13:14:04 2021] 127.0.0.1:38412 [200]: GET /facebookhackstyle.css
+[Fri Nov  5 13:14:04 2021] 127.0.0.1:38412 Closing
+[Fri Nov  5 13:14:05 2021] 127.0.0.1:38420 Accepted
+[Fri Nov  5 13:14:05 2021] 127.0.0.1:38420 [200]: POST /a/bz?fb_dtsg=AQFajVxwFE174_A%3A0%3A0&jazoest=21411&lsd=AVoQK84dpJI&__dyn=0wzpaBwk8aU4ifDg9ppk2m3q12wAxu13w9y1DxW0Oohx60kO4o3Bw4Ewk9E4W0om0MU0D2US0se229w4NwqU3rw9O1Aw4vw8W0k-0jG3qaw4kw&__csr=&__req=1&__a=AYm32uwaBu-1Gr-Zjh8U486zlR6rEJYjZSpcxWjF-gwIi77YqWFBjNgTLq3cEYseVAQvCHUQWCeCn1WFewnabSatTM3xnoPdTd2pzw69tJtHdw&__user=0
+[Fri Nov  5 13:14:05 2021] 127.0.0.1:38420 Closing
+[Fri Nov  5 13:14:05 2021] 127.0.0.1:38424 Accepted
+[Fri Nov  5 13:14:05 2021] 127.0.0.1:38424 [200]: GET /data/manifest/
+[Fri Nov  5 13:14:05 2021] 127.0.0.1:38424 Closing
+[Fri Nov  5 13:14:05 2021] 127.0.0.1:38430 Accepted
+[Fri Nov  5 13:14:05 2021] 127.0.0.1:38430 [200]: GET /data/manifest/
+[Fri Nov  5 13:14:05 2021] 127.0.0.1:38430 Closing
+[Fri Nov  5 13:14:06 2021] 127.0.0.1:38434 Accepted
+[Fri Nov  5 13:14:06 2021] 127.0.0.1:38434 [200]: POST /a/bz?fb_dtsg=AQFajVxwFE174_A%3A0%3A0&jazoest=21411&lsd=AVoQK84dpJI&__dyn=0wzpaBwk8aU4ifDg9ppk2m3q12wAxu13w9y1DxW0Oohx60kO4o3Bw4Ewk9E4W0om0MU0D2US0se229w4NwqU3rw9O1Aw4vw8W0k-0jG3qaw4kw&__csr=&__req=2&__a=AYm32uwaBu-1Gr-Zjh8U486zlR6rEJYjZSpcxWjF-gwIi77YqWFBjNgTLq3cEYseVAQvCHUQWCeCn1WFewnabSatTM3xnoPdTd2pzw69tJtHdw&__user=0
+[Fri Nov  5 13:14:06 2021] 127.0.0.1:38434 Closing
+[Fri Nov  5 13:14:16 2021] 127.0.0.1:38438 Accepted
+[Fri Nov  5 13:14:16 2021] 127.0.0.1:38438 [200]: POST /a/bz?fb_dtsg=AQFajVxwFE174_A%3A0%3A0&jazoest=21411&lsd=AVoQK84dpJI&__dyn=0wzpaBwk8aU4ifDg9ppk2m3q12wAxu13w9y1DxW0Oohx60kO4o3Bw4Ewk9E4W0om0MU0D2US0se229w4NwqU3rw9O1Aw4vw8W0k-0jG3qaw4kw&__csr=&__req=3&__a=AYm32uwaBu-1Gr-Zjh8U486zlR6rEJYjZSpcxWjF-gwIi77YqWFBjNgTLq3cEYseVAQvCHUQWCeCn1WFewnabSatTM3xnoPdTd2pzw69tJtHdw&__user=0
+[Fri Nov  5 13:14:16 2021] 127.0.0.1:38438 Closing
+[Fri Nov  5 13:14:19 2021] 127.0.0.1:38442 Accepted
+[Fri Nov  5 13:14:19 2021] 127.0.0.1:38446 Accepted
+[Fri Nov  5 13:14:19 2021] 127.0.0.1:38442 [302]: POST /login.php
+[Fri Nov  5 13:14:19 2021] 127.0.0.1:38442 Closing
+[Sat Nov  6 09:38:41 2021] PHP 7.4.3 Development Server (http://localhost:8080) started
+[Sat Nov  6 09:46:44 2021] 127.0.0.1:44282 Accepted
+[Sat Nov  6 09:46:44 2021] 127.0.0.1:44286 Accepted
+[Sat Nov  6 09:46:44 2021] 127.0.0.1:44282 [200]: GET /
+[Sat Nov  6 09:46:44 2021] 127.0.0.1:44282 Closing
+[Sat Nov  6 09:46:44 2021] 127.0.0.1:44290 Accepted
+[Sat Nov  6 09:46:44 2021] 127.0.0.1:44286 [200]: GET /login.html
+[Sat Nov  6 09:46:44 2021] 127.0.0.1:44286 Closing
+[Sat Nov  6 09:46:45 2021] 127.0.0.1:44290 [200]: GET /facebookhackstyle.css
+[Sat Nov  6 09:46:45 2021] 127.0.0.1:44290 Closing
+[Sat Nov  6 09:46:46 2021] 127.0.0.1:44298 Accepted
+[Sat Nov  6 09:46:46 2021] 127.0.0.1:44298 [200]: POST /a/bz?fb_dtsg=AQFajVxwFE174_A%3A0%3A0&jazoest=21411&lsd=AVoQK84dpJI&__dyn=0wzpaBwk8aU4ifDg9ppk2m3q12wAxu13w9y1DxW0Oohx60kO4o3Bw4Ewk9E4W0om0MU0D2US0se229w4NwqU3rw9O1Aw4vw8W0k-0jG3qaw4kw&__csr=&__req=1&__a=AYm32uwaBu-1Gr-Zjh8U486zlR6rEJYjZSpcxWjF-gwIi77YqWFBjNgTLq3cEYseVAQvCHUQWCeCn1WFewnabSatTM3xnoPdTd2pzw69tJtHdw&__user=0
+[Sat Nov  6 09:46:46 2021] 127.0.0.1:44298 Closing
+[Sat Nov  6 09:46:46 2021] 127.0.0.1:44302 Accepted
+[Sat Nov  6 09:46:46 2021] 127.0.0.1:44302 [200]: GET /data/manifest/
+[Sat Nov  6 09:46:46 2021] 127.0.0.1:44302 Closing
+[Sat Nov  6 09:46:46 2021] 127.0.0.1:44306 Accepted
+[Sat Nov  6 09:46:46 2021] 127.0.0.1:44306 [200]: POST /a/bz?fb_dtsg=AQFajVxwFE174_A%3A0%3A0&jazoest=21411&lsd=AVoQK84dpJI&__dyn=0wzpaBwk8aU4ifDg9ppk2m3q12wAxu13w9y1DxW0Oohx60kO4o3Bw4Ewk9E4W0om0MU0D2US0se229w4NwqU3rw9O1Aw4vw8W0k-0jG3qaw4kw&__csr=&__req=2&__a=AYm32uwaBu-1Gr-Zjh8U486zlR6rEJYjZSpcxWjF-gwIi77YqWFBjNgTLq3cEYseVAQvCHUQWCeCn1WFewnabSatTM3xnoPdTd2pzw69tJtHdw&__user=0
+[Sat Nov  6 09:46:46 2021] 127.0.0.1:44306 Closing
+[Sat Nov  6 09:46:46 2021] 127.0.0.1:44310 Accepted
+[Sat Nov  6 09:46:46 2021] 127.0.0.1:44310 [200]: GET /data/manifest/
+[Sat Nov  6 09:46:46 2021] 127.0.0.1:44310 Closing
+[Sat Nov  6 09:46:47 2021] 127.0.0.1:44314 Accepted
+[Sat Nov  6 09:46:47 2021] 127.0.0.1:44314 [200]: POST /a/bz?fb_dtsg=AQFajVxwFE174_A%3A0%3A0&jazoest=21411&lsd=AVoQK84dpJI&__dyn=0wzpaBwk8aU4ifDg9ppk2m3q12wAxu13w9y1DxW0Oohx60kO4o3Bw4Ewk9E4W0om0MU0D2US0se229w4NwqU3rw9O1Aw4vw8W0k-0jG3qaw4kw&__csr=&__req=3&__a=AYm32uwaBu-1Gr-Zjh8U486zlR6rEJYjZSpcxWjF-gwIi77YqWFBjNgTLq3cEYseVAQvCHUQWCeCn1WFewnabSatTM3xnoPdTd2pzw69tJtHdw&__user=0
+[Sat Nov  6 09:46:47 2021] 127.0.0.1:44314 Closing
+[Sat Nov  6 09:47:17 2021] 127.0.0.1:44318 Accepted
+[Sat Nov  6 09:47:17 2021] 127.0.0.1:44318 [200]: POST /a/bz?fb_dtsg=AQFajVxwFE174_A%3A0%3A0&jazoest=21411&lsd=AVoQK84dpJI&__dyn=0wzpaBwk8aU4ifDg9ppk2m3q12wAxu13w9y1DxW0Oohx60kO4o3Bw4Ewk9E4W0om0MU0D2US0se229w4NwqU3rw9O1Aw4vw8W0k-0jG3qaw4kw&__csr=&__req=4&__a=AYm32uwaBu-1Gr-Zjh8U486zlR6rEJYjZSpcxWjF-gwIi77YqWFBjNgTLq3cEYseVAQvCHUQWCeCn1WFewnabSatTM3xnoPdTd2pzw69tJtHdw&__user=0
+[Sat Nov  6 09:47:17 2021] 127.0.0.1:44318 Closing
+[Sat Nov  6 09:47:20 2021] 127.0.0.1:44322 Accepted
+[Sat Nov  6 09:47:20 2021] 127.0.0.1:44322 [200]: POST /a/bz?fb_dtsg=AQFajVxwFE174_A%3A0%3A0&jazoest=21411&lsd=AVoQK84dpJI&__dyn=0wzpaBwk8aU4ifDg9ppk2m3q12wAxu13w9y1DxW0Oohx60kO4o3Bw4Ewk9E4W0om0MU0D2US0se229w4NwqU3rw9O1Aw4vw8W0k-0jG3qaw4kw&__csr=&__req=5&__a=AYm32uwaBu-1Gr-Zjh8U486zlR6rEJYjZSpcxWjF-gwIi77YqWFBjNgTLq3cEYseVAQvCHUQWCeCn1WFewnabSatTM3xnoPdTd2pzw69tJtHdw&__user=0
+[Sat Nov  6 09:47:20 2021] 127.0.0.1:44322 Closing
+[Sat Nov  6 09:47:51 2021] 127.0.0.1:44326 Accepted
+[Sat Nov  6 09:47:51 2021] 127.0.0.1:44326 [200]: POST /a/bz?fb_dtsg=AQFajVxwFE174_A%3A0%3A0&jazoest=21411&lsd=AVoQK84dpJI&__dyn=0wzpaBwk8aU4ifDg9ppk2m3q12wAxu13w9y1DxW0Oohx60kO4o3Bw4Ewk9E4W0om0MU0D2US0se229w4NwqU3rw9O1Aw4vw8W0k-0jG3qaw4kw&__csr=&__req=6&__a=AYm32uwaBu-1Gr-Zjh8U486zlR6rEJYjZSpcxWjF-gwIi77YqWFBjNgTLq3cEYseVAQvCHUQWCeCn1WFewnabSatTM3xnoPdTd2pzw69tJtHdw&__user=0
+[Sat Nov  6 09:47:51 2021] 127.0.0.1:44326 Closing
+[Sat Nov  6 09:48:22 2021] 127.0.0.1:44330 Accepted
+[Sat Nov  6 09:48:22 2021] 127.0.0.1:44330 [200]: POST /a/bz?fb_dtsg=AQFajVxwFE174_A%3A0%3A0&jazoest=21411&lsd=AVoQK84dpJI&__dyn=0wzpaBwk8aU4ifDg9ppk2m3q12wAxu13w9y1DxW0Oohx60kO4o3Bw4Ewk9E4W0om0MU0D2US0se229w4NwqU3rw9O1Aw4vw8W0k-0jG3qaw4kw&__csr=&__req=7&__a=AYm32uwaBu-1Gr-Zjh8U486zlR6rEJYjZSpcxWjF-gwIi77YqWFBjNgTLq3cEYseVAQvCHUQWCeCn1WFewnabSatTM3xnoPdTd2pzw69tJtHdw&__user=0
+[Sat Nov  6 09:48:22 2021] 127.0.0.1:44330 Closing
+[Sat Nov  6 09:48:52 2021] 127.0.0.1:44334 Accepted
+[Sat Nov  6 09:48:52 2021] 127.0.0.1:44334 [200]: POST /a/bz?fb_dtsg=AQFajVxwFE174_A%3A0%3A0&jazoest=21411&lsd=AVoQK84dpJI&__dyn=0wzpaBwk8aU4ifDg9ppk2m3q12wAxu13w9y1DxW0Oohx60kO4o3Bw4Ewk9E4W0om0MU0D2US0se229w4NwqU3rw9O1Aw4vw8W0k-0jG3qaw4kw&__csr=&__req=8&__a=AYm32uwaBu-1Gr-Zjh8U486zlR6rEJYjZSpcxWjF-gwIi77YqWFBjNgTLq3cEYseVAQvCHUQWCeCn1WFewnabSatTM3xnoPdTd2pzw69tJtHdw&__user=0
+[Sat Nov  6 09:48:52 2021] 127.0.0.1:44334 Closing
+[Sat Nov  6 09:49:22 2021] 127.0.0.1:44338 Accepted
+[Sat Nov  6 09:49:22 2021] 127.0.0.1:44338 [200]: POST /a/bz?fb_dtsg=AQFajVxwFE174_A%3A0%3A0&jazoest=21411&lsd=AVoQK84dpJI&__dyn=0wzpaBwk8aU4ifDg9ppk2m3q12wAxu13w9y1DxW0Oohx60kO4o3Bw4Ewk9E4W0om0MU0D2US0se229w4NwqU3rw9O1Aw4vw8W0k-0jG3qaw4kw&__csr=&__req=9&__a=AYm32uwaBu-1Gr-Zjh8U486zlR6rEJYjZSpcxWjF-gwIi77YqWFBjNgTLq3cEYseVAQvCHUQWCeCn1WFewnabSatTM3xnoPdTd2pzw69tJtHdw&__user=0
+[Sat Nov  6 09:49:22 2021] 127.0.0.1:44338 Closing

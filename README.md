@@ -23,27 +23,27 @@ Deberás pocicionarte en la carpeta donde desas clonar el repositorio y estando 
 git clone https://github.com/Fernand117/Socnetfish.git
 ```
 
-###### INSTALANDO LIBRERÍAS ADICIONALES
-Para correr este script es necesaria la instalación de las siguientes librerías
-
-Colorama
-```
-python3 -m pip install colorama
-```
-
-Zipfile
+###### INSTALANDO EL PROGRAMA
+Para instalar Socnetfish en tu computadora entra a la carpeta del proyecto que acabas de clonar y ejecuta
 
 ```
-python3 -m pip install zipfile
+sudo python3 setup.py
 ```
+Esto iniciará la instalación de paquetes necesarios para que la aplicación pueda funcionar correctamente.
 
+Para desinstalar Socnetfish de tu equipo, basta con ejecutar el programa que viene en la misma carpeta que se ha clonado del
+repositorio de git, con el siguiente comando
 
+```
+python3 uninstall.py
+```
+Este comando desinstalará el programa de tu equipo.
 
 ###### EJECUCIÓN
 
-Una vez clonado el repositorio entrar desde tu terminal Linux y dentro de la carpeta src ejecutar:
+Una vez instalado el programa, podras ejecutar desde tu terminal el siguiente comando:
 ```
-python3 socnetfish.py
+socnetfish
 ```
 ## ¿CÓMO FUNCIONA?
 Una vez ejecutado el script este comenzará a verificar que exista ngrok, en caso de que no, lo descagará automáticamente desde la web oficial.
@@ -55,7 +55,7 @@ Cuando el sitio detecte una contraseña, esta se listará en la terminal.
 Para terminar la ejecución del script habrá dos opciones, la primera es que antes de iniciar el servidor tendrás una opción en el menú principal que te permitirá terminarla y la segunda es que estando el servidor activo preciones la combinación de teclas Ctrl+c en tu teclado y este preguntará si deseas terminar la ejecución.
 
 ## NOTA IMPORTANTE
-Deberá ejectuar en el mismo lugar en otra terminal el siguiente comando para que el servidor local quede expuesto a internet y entonces poder utilizarse desde cualquier dispositivo fuera de la red.
+Deberá ejectuar en otra terminal el siguiente comando para que el servidor local quede expuesto a internet y entonces poder utilizarse desde cualquier dispositivo fuera de la red.
 
 ```
 ./ngrok http 8080
