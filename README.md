@@ -2,7 +2,7 @@
 
 <p align="center">
  <br></br>
- <img src="https://www.python.org/static/img/python-logo.png">
+ <img src="https://raw.githubusercontent.com/Fernand117/Socnetfish/main/src/img/socnetfish.png">
 </p>
 
 ## REQUISITOS
