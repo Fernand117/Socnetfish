@@ -1179,3 +1179,19 @@
 [Thu Nov  4 14:00:44 2021] 127.0.0.1:39828 Accepted
 [Thu Nov  4 14:00:44 2021] 127.0.0.1:39824 [302]: POST /login.php
 [Thu Nov  4 14:00:44 2021] 127.0.0.1:39824 Closing
+[Mon May 16 21:39:47 2022] PHP 8.0.1 Development Server (http://localhost:8080) started
+[Mon May 16 21:40:54 2022] Failed to listen on localhost:8080 (reason: Address already in use)
+[Mon May 16 21:41:13 2022] Failed to listen on localhost:8080 (reason: Address already in use)
+[Mon May 16 21:41:33 2022] Failed to listen on localhost:8080 (reason: Address already in use)
+[Mon May 16 21:43:01 2022] Failed to listen on localhost:8080 (reason: Address already in use)
+[Mon May 16 21:47:02 2022] Failed to listen on localhost:8080 (reason: Address already in use)
+[Mon May 16 21:49:33 2022] Failed to listen on localhost:8080 (reason: Address already in use)
+[Mon May 16 21:50:14 2022] Failed to listen on localhost:8080 (reason: Address already in use)
+[Mon May 16 21:52:23 2022] PHP 8.0.1 Development Server (http://localhost:8080) started
+[Mon May 16 21:53:24 2022] PHP 8.0.1 Development Server (http://localhost:8080) started
+[Mon May 16 21:58:38 2022] Failed to listen on localhost:8080 (reason: Address already in use)
+[Mon May 16 22:01:47 2022] PHP 8.0.1 Development Server (http://localhost:8080) started
+[Mon May 16 22:03:03 2022] Failed to listen on localhost:8080 (reason: Address already in use)
+[Mon May 16 22:05:04 2022] Failed to listen on localhost:8080 (reason: Address already in use)
+[Mon May 16 22:06:14 2022] Failed to listen on localhost:8080 (reason: Address already in use)
+[Mon May 16 22:11:05 2022] Failed to listen on localhost:8080 (reason: Address already in use)

